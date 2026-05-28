@@ -1,0 +1,170 @@
+﻿region,folio,tipo,accion,detalle
+RM,54445,egreso,OK,65180632-1.pdf → Egreso - 54445.pdf
+RM,54445,convenio,OK,CONVENIO AGRUPACIÓN DE APODERADOS Y JÓVENES MOSAICO.pdf → Convenio - 54445.pdf (score=3)
+RM,54445,resolucion,OK,272-714.pdf → Resolución - 54445.pdf
+RM,54480,egreso,OK,65591540-0.pdf → Egreso - 54480.pdf
+RM,54480,convenio,OK,CONVENIO JUNTA DE VECINOS N°58 TORIBIO LARRAIN.pdf → Convenio - 54480.pdf (score=2)
+RM,54480,resolucion,OK,272-714.pdf → Resolución - 54480.pdf
+RM,54706,egreso,OK,65204907-9.pdf → Egreso - 54706.pdf
+RM,54706,convenio,OK,CONVENIO JUNTA DE VECINOS NUEVA SANTA ANA DE LOS ARCOS.pdf → Convenio - 54706.pdf (score=3)
+RM,54706,resolucion,OK,272-714.pdf → Resolución - 54706.pdf
+RM,54708,egreso,OK,65072912-9.pdf → Egreso - 54708.pdf
+RM,54708,convenio,OK,CONVENIO JUNTA DE VECINOS CLAUDIO MATTE PÉREZ.pdf → Convenio - 54708.pdf (score=3)
+RM,54708,resolucion,OK,272-714.pdf → Resolución - 54708.pdf
+RM,54743,egreso,OK,65340880-3.pdf → Egreso - 54743.pdf
+RM,54743,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=CENTRO CULTURAL SANTIAGO 12
+RM,54743,resolucion,OK,272-714.pdf → Resolución - 54743.pdf
+RM,54902,egreso,SIN_MATCH_RUT,RUT=65134781-5
+RM,54902,convenio,OK,CONVENIO - DONACIO DE ORGANOS EN CHILE20220711_10280974.pdf → Convenio - 54902.pdf (score=2)
+RM,54902,resolucion,OK,272-715.pdf → Resolución - 54902.pdf
+RM,54965,egreso,OK,65109484-4.pdf → Egreso - 54965.pdf
+RM,54965,convenio,OK,CONVENIO ALERTA MUJERES CALERA DE TANGO.pdf → Convenio - 54965.pdf (score=2)
+RM,54965,resolucion,OK,272-714.pdf → Resolución - 54965.pdf
+RM,55041,egreso,SIN_MATCH_RUT,RUT=65199305-9
+RM,55041,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=FUNDACIÓN PEWENKEM
+RM,55041,resolucion,OK,272-715.pdf → Resolución - 55041.pdf
+RM,55146,egreso,OK,65144486-1.pdf → Egreso - 55146.pdf
+RM,55146,convenio,OK,CONVENIO - COMUN ESCOLARES SUSTENTABLES 20220713_15054644.pdf → Convenio - 55146.pdf (score=2)
+RM,55146,resolucion,OK,272-714.pdf → Resolución - 55146.pdf
+RM,55181,carpeta,SIN_CARPETA,"55181 - CORPORACION CHILEPRIMERO, CORPORACIÓN PARA EL DESARROLLO SUSTENTABLE ECONÓMICO, PRODUCTIVO, SOCIAL."
+RM,55380,egreso,OK,65050665-0.pdf → Egreso - 55380.pdf
+RM,55380,convenio,OK,CONVENIO CLUB DEP. PUENTE SKATE.pdf → Convenio - 55380.pdf (score=2)
+RM,55380,resolucion,OK,272-714.pdf → Resolución - 55380.pdf
+RM,55759,carpeta,SIN_CARPETA,55759 - AGRUPACIÓN FOLCLÓRICA RAIPILLÁN
+RM,55788,egreso,OK,65063887-5.pdf → Egreso - 55788.pdf
+RM,55788,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=CENTRO CULTURAL CREANDO INTEGRACIÓN PARA
+RM,55788,resolucion,OK,272-714.pdf → Resolución - 55788.pdf
+RM,55914,carpeta,SIN_CARPETA,"55914 - CENTRO CULTURAL CON ALMA PATRIMONIAL:PATRIMONIO,MEMORIA Y TIERRA"
+RM,56037,egreso,OK,65092940-3.pdf → Egreso - 56037.pdf
+RM,56037,convenio,OK,CONVENIO CORPORACIÓN DE ARTISTAS POR LA REHABILITACIÓN.pdf → Convenio - 56037.pdf (score=2)
+RM,56037,resolucion,OK,272-714.pdf → Resolución - 56037.pdf
+RM,56063,egreso,OK,65179524-9.pdf → Egreso - 56063.pdf
+RM,56063,convenio,OK,CONVENIO FUNDACIÓN DE BENEFICENCIA SOMOS MULTICOLOR.pdf → Convenio - 56063.pdf (score=3)
+RM,56063,resolucion,OK,272-714.pdf → Resolución - 56063.pdf
+RM,56166,egreso,OK,75950000-8.pdf → Egreso - 56166.pdf
+RM,56166,convenio,OK,CONVENIO JUNTA DE VECINOS VILLA LO BLANCO.pdf → Convenio - 56166.pdf (score=2)
+RM,56166,resolucion,OK,272-714.pdf → Resolución - 56166.pdf
+RM,56201,egreso,OK,65199145-5.pdf → Egreso - 56201.pdf
+RM,56201,convenio,OK,CONVENIO CONSEJO VECINAL DE DESARROLLO UNIDOS POR EL BARRIO SAN JOAQUIN.pdf → Convenio - 56201.pdf (score=6)
+RM,56201,resolucion,OK,272-714.pdf → Resolución - 56201.pdf
+RM,56277,egreso,OK,65537510-4.pdf → Egreso - 56277.pdf
+RM,56277,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=JUNTA DE VECINOS VILLA SAN JOSÉ
+RM,56277,resolucion,OK,272-714.pdf → Resolución - 56277.pdf
+RM,56394,egreso,OK,71191200-2.pdf → Egreso - 56394.pdf
+RM,56394,convenio,OK,CONVENIO FUNDACIÓN HOGAR DE MENORES DOMINGO SAVIO.pdf → Convenio - 56394.pdf (score=4)
+RM,56394,resolucion,OK,272-714.pdf → Resolución - 56394.pdf
+RM,56440,egreso,OK,71791600-K.pdf → Egreso - 56440.pdf
+RM,56440,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=CORPORACIÓN CHILENA DE PREVENCIÓN DEL SI
+RM,56440,resolucion,OK,272-714.pdf → Resolución - 56440.pdf
+RM,56498,egreso,OK,65145979-6.pdf → Egreso - 56498.pdf
+RM,56498,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=FUNDACIÓN VOLVER A REÍR
+RM,56498,resolucion,OK,272-714.pdf → Resolución - 56498.pdf
+RM,56589,egreso,OK,53334841-6.pdf → Egreso - 56589.pdf
+RM,56589,convenio,OK,CONVENIO FUNDACIÓN MATTER OF TRUST CHILE.pdf → Convenio - 56589.pdf (score=3)
+RM,56589,resolucion,OK,272-714.pdf → Resolución - 56589.pdf
+RM,56596,egreso,OK,65173543-2.pdf → Egreso - 56596.pdf
+RM,56596,convenio,SIN_MATCH_RAZON,mejor_score=0 razon=FUNDACIÓN AULA VIVA
+RM,56596,resolucion,OK,272-714.pdf → Resolución - 56596.pdf
+RM,56651,egreso,OK,65114996-7.pdf → Egreso - 56651.pdf
+RM,56651,convenio,OK,CONVENIO JUNTA DE VECINOS UNIÓN AMERICANA Y YERBAS BUENAS.pdf → Convenio - 56651.pdf (score=3)
+RM,56651,resolucion,OK,272-714.pdf → Resolución - 56651.pdf
+RM,56666,egreso,OK,65160065-0.pdf → Egreso - 56666.pdf
+RM,56666,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=ONG VIDA DIGNA
+RM,56666,resolucion,OK,272-714.pdf → Resolución - 56666.pdf
+RM,56734,egreso,OK,65102262-2.pdf → Egreso - 56734.pdf
+RM,56734,convenio,OK,CONVENIO - LAS PARCELAS DE PAJARITOS20220718_10370842.pdf → Convenio - 56734.pdf (score=2)
+RM,56734,resolucion,OK,272-714.pdf → Resolución - 56734.pdf
+RM,56904,egreso,OK,53334304-K.pdf → Egreso - 56904.pdf
+RM,56904,convenio,OK,CONVENIO UNION COMUNAL DE ADULTOS MAYORES LA PINTANA.pdf → Convenio - 56904.pdf (score=3)
+RM,56904,resolucion,OK,272-714.pdf → Resolución - 56904.pdf
+RM,56936,egreso,OK,65361420-9.pdf → Egreso - 56936.pdf
+RM,56936,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=CLUB DE ADULTO MAYOR LAS ABEJITAS HACEDO
+RM,56936,resolucion,OK,272-714.pdf → Resolución - 56936.pdf
+RM,56943,egreso,SIN_MATCH_RUT,RUT=65190926-0
+RM,56943,convenio,OK,CONVENIO - FUNDACION EMBAJADA DEL INMIGRANTE-FEDI20220706_17020769.pdf → Convenio - 56943.pdf (score=2)
+RM,56943,resolucion,OK,272-715.pdf → Resolución - 56943.pdf
+RM,56950,egreso,OK,65192521-5.pdf → Egreso - 56950.pdf
+RM,56950,convenio,OK,CONVENIO CLUB DE ADULTO MAYOR EL TAQUITO DE CHICAUMA.pdf → Convenio - 56950.pdf (score=2)
+RM,56950,resolucion,OK,272-714.pdf → Resolución - 56950.pdf
+RM,56985,egreso,OK,65116312-9.pdf → Egreso - 56985.pdf
+RM,56985,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=MUDET MUJER DESAFIO TRABAJO
+RM,56985,resolucion,OK,272-714.pdf → Resolución - 56985.pdf
+RM,56992,egreso,OK,65207688-2.pdf → Egreso - 56992.pdf
+RM,56992,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=CLUB DEPORTIVO Y CULTURAL SOCIAL MADRID
+RM,56992,resolucion,OK,272-714.pdf → Resolución - 56992.pdf
+RM,57013,egreso,OK,65031520-0.pdf → Egreso - 57013.pdf
+RM,57013,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=JUNTA DE VECINOS A-17 JOSE MIGUEL CARRER
+RM,57013,resolucion,OK,272-714.pdf → Resolución - 57013.pdf
+RM,57209,egreso,OK,65050245-0.pdf → Egreso - 57209.pdf
+RM,57209,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=AGRUPACIÓN SOCIAL Y CULTURAL ARTESANOS Y
+RM,57209,resolucion,OK,272-714.pdf → Resolución - 57209.pdf
+RM,57329,egreso,OK,65031877-3.pdf → Egreso - 57329.pdf
+RM,57329,convenio,OK,CONVENIO CAM SANTA TERESITA NIÑO JESUS.pdf → Convenio - 57329.pdf (score=3)
+RM,57329,resolucion,OK,272-714.pdf → Resolución - 57329.pdf
+RM,57377,egreso,OK,65605810-2.pdf → Egreso - 57377.pdf
+RM,57377,convenio,OK,CONVENIO CENTRO CULTURAL Y DEPORTIVO OCUPANDO ESPACIOS.pdf → Convenio - 57377.pdf (score=2)
+RM,57377,resolucion,OK,272-714.pdf → Resolución - 57377.pdf
+RM,57609,egreso,SIN_MATCH_RUT,RUT=65148703-K
+RM,57609,convenio,OK,CONVENIO - INGENIEROS SF CHILE20220720_16231936.pdf → Convenio - 57609.pdf (score=2)
+RM,57609,resolucion,OK,272-715.pdf → Resolución - 57609.pdf
+RM,57720,egreso,OK,65184409-6.pdf → Egreso - 57720.pdf
+RM,57720,convenio,OK,CONVENIO CENTRO DE DESARROLLO SOCIAL MAESTRANZA + CULTURA.pdf → Convenio - 57720.pdf (score=3)
+RM,57720,resolucion,OK,272-714.pdf → Resolución - 57720.pdf
+RM,57798,egreso,SIN_MATCH_RUT,RUT=73597200-6
+RM,57798,convenio,OK,CONVENIO ALDEAS INFANTILES SOS CHILE..pdf → Convenio - 57798.pdf (score=3)
+RM,57798,resolucion,OK,272-715.pdf → Resolución - 57798.pdf
+RM,57810,egreso,OK,65007333-9.pdf → Egreso - 57810.pdf
+RM,57810,convenio,OK,CONVENIO AGRUPACION DE MUJERES ALFA Y OMEGA UNIVERSAL.pdf → Convenio - 57810.pdf (score=3)
+RM,57810,resolucion,OK,272-714.pdf → Resolución - 57810.pdf
+RM,57818,carpeta,SIN_CARPETA,57818 - ORGANIZACIÓN CULTURAL Y DE ADULTO MAYOR LAS TORCACITAS.
+RM,57827,egreso,OK,65176067-4.pdf → Egreso - 57827.pdf
+RM,57827,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=FUNDACIÓN SOY CUERPO
+RM,57827,resolucion,OK,272-714.pdf → Resolución - 57827.pdf
+RM,57990,egreso,OK,82190000-K.pdf → Egreso - 57990.pdf
+RM,57990,convenio,OK,CONVENIO CUERPO DE BOMBEROS DE CONCHALÍ-HUECHURABA.pdf → Convenio - 57990.pdf (score=4)
+RM,57990,resolucion,OK,272-714.pdf → Resolución - 57990.pdf
+RM,57991,egreso,OK,65174184-K.pdf → Egreso - 57991.pdf
+RM,57991,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=ORGANIZACIÓN DEPORTIVO CULTURAL Y SOCIAL
+RM,57991,resolucion,OK,272-714.pdf → Resolución - 57991.pdf
+RM,58094,egreso,SIN_MATCH_RUT,RUT=65168713-6
+RM,58094,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=ORGANIZACION NO GUBERNAMENTAL DE SALUD P
+RM,58094,resolucion,OK,272-715.pdf → Resolución - 58094.pdf
+RM,58242,egreso,OK,65078645-9.pdf → Egreso - 58242.pdf
+RM,58242,convenio,OK,CONVENIO TODOS POR UN TANGO.pdf → Convenio - 58242.pdf (score=2)
+RM,58242,resolucion,OK,272-714.pdf → Resolución - 58242.pdf
+RM,58252,egreso,OK,65215730-0.pdf → Egreso - 58252.pdf
+RM,58252,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=JUNTA DE VECINOS EL PORTEZUELO
+RM,58252,resolucion,OK,272-714.pdf → Resolución - 58252.pdf
+RM,58277,egreso,OK,65111968-5.pdf → Egreso - 58277.pdf
+RM,58277,convenio,OK,CONVENIO - FUNDACION MOVIMIENTO CRISTIANO20220720_18460410.pdf → Convenio - 58277.pdf (score=2)
+RM,58277,resolucion,OK,272-714.pdf → Resolución - 58277.pdf
+RM,58465,egreso,OK,65142785-1.pdf → Egreso - 58465.pdf
+RM,58465,convenio,SIN_MATCH_RAZON,mejor_score=0 razon=TAÑI RUKA MEU
+RM,58465,resolucion,OK,272-714.pdf → Resolución - 58465.pdf
+RM,58485,egreso,OK,65090547-4.pdf → Egreso - 58485.pdf
+RM,58485,convenio,SIN_MATCH_RAZON,mejor_score=0 razon=FUNDACIÓN ERES
+RM,58485,resolucion,OK,272-714.pdf → Resolución - 58485.pdf
+RM,58758,egreso,OK,65203744-5.pdf → Egreso - 58758.pdf
+RM,58758,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=ORGANIZACIÓN COMUNITARIA
+RM,58758,resolucion,OK,272-714.pdf → Resolución - 58758.pdf
+RM,58788,egreso,OK,65190641-5.pdf → Egreso - 58788.pdf
+RM,58788,convenio,OK,CONVENIO - GESTIONA E INNOVA20220718_09200951.pdf → Convenio - 58788.pdf (score=2)
+RM,58788,resolucion,OK,272-714.pdf → Resolución - 58788.pdf
+RM,58791,egreso,OK,65188231-1.pdf → Egreso - 58791.pdf
+RM,58791,convenio,OK,CONVENIO THANOS MELIPILLA.pdf → Convenio - 58791.pdf (score=2)
+RM,58791,resolucion,OK,272-714.pdf → Resolución - 58791.pdf
+RM,58804,egreso,OK,65041826-3.pdf → Egreso - 58804.pdf
+RM,58804,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=CENTRO CULTURAL LA AMBULANCIA DE LA RISA
+RM,58804,resolucion,OK,272-714.pdf → Resolución - 58804.pdf
+RM,58829,egreso,OK,65098220-7.pdf → Egreso - 58829.pdf
+RM,58829,convenio,OK,CONVENIO CENTRO DE PROMOCIÓN Y PREVENCIÓN EN SALUD MENTAL CLARITA DE.pdf → Convenio - 58829.pdf (score=5)
+RM,58829,resolucion,OK,272-714.pdf → Resolución - 58829.pdf
+RM,58944,egreso,OK,65238800-0.pdf → Egreso - 58944.pdf
+RM,58944,convenio,OK,CONVENIO JUNTA DE VECINOS N°59 VILLA FANTASIA.pdf → Convenio - 58944.pdf (score=2)
+RM,58944,resolucion,OK,272-714.pdf → Resolución - 58944.pdf
+RM,58951,egreso,OK,65094016-4.pdf → Egreso - 58951.pdf
+RM,58951,convenio,SIN_MATCH_RAZON,mejor_score=1 razon=AGRUPACION JUVENIL CULTURAL DEPORTIVO RA
+RM,58951,resolucion,OK,272-714.pdf → Resolución - 58951.pdf
+RM,59006,egreso,SIN_MATCH_RUT,RUT=65146594-K
+RM,59006,convenio,OK,CONVENIO INDIGENA QUINAN.pdf → Convenio - 59006.pdf (score=2)
+RM,59006,resolucion,OK,272-715.pdf → Resolución - 59006.pdf
