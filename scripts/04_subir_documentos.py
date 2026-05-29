@@ -46,7 +46,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # ====== CONFIGURACIÓN ======
 MASTER_XLSX = "data/master_subida.xlsx"
-DISTRIBUCION_XLSX = "data/DISTRIBUCIÓN CARGA VB.xlsx"
+DISTRIBUCION_XLSX = "DISTRIBUCIÓN CARGA VB.xlsx"
 LOG_CSV = "logs/ejecucion_subidas.csv"
 LOG_REPORTE = "logs/reporte_faltantes.csv"
 CHROME_PROFILE_DIR = "/home/bgcorrea/.bot_sira_chrome_profile"
@@ -103,8 +103,57 @@ def cargar_folios_distribucion() -> set[str]:
 
 # ====== UTILIDADES DE DRIVER ======
 
+SNAP_CHROMIUM = "/snap/bin/chromium"
+SNAP_DRIVER   = "/snap/bin/chromium.chromedriver"
+CDPORT        = 9222
+
+
+def _lanzar_chromium_snap(perfil_dir: str, puerto: int = CDPORT):
+    """Lanza Chromium snap con depuración TCP para evitar el bloqueo de pipe del snap."""
+    import subprocess
+    cmd = [
+        SNAP_CHROMIUM,
+        f"--remote-debugging-port={puerto}",
+        f"--user-data-dir={perfil_dir}",
+        "--start-maximized",
+        "--no-sandbox",
+        "--disable-dev-shm-usage",
+        "--disable-gpu",
+        "--no-first-run",
+        "--password-store=basic",
+    ]
+    return subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
 def crear_driver() -> webdriver.Chrome:
+    import socket
     Path(CHROME_PROFILE_DIR).mkdir(parents=True, exist_ok=True)
+
+    # Snap Chromium: lanzar con TCP y conectar via debuggerAddress
+    if Path(SNAP_CHROMIUM).exists() and Path(SNAP_DRIVER).exists():
+        proc = _lanzar_chromium_snap(CHROME_PROFILE_DIR)
+        for _ in range(20):
+            time.sleep(0.5)
+            try:
+                with socket.create_connection(("127.0.0.1", CDPORT), timeout=1):
+                    break
+            except OSError:
+                pass
+        else:
+            proc.terminate()
+            raise RuntimeError("Chromium no abrió el puerto de depuración a tiempo.")
+
+        options = Options()
+        options.add_experimental_option("debuggerAddress", f"127.0.0.1:{CDPORT}")
+        service = Service(SNAP_DRIVER)
+        driver = webdriver.Chrome(service=service, options=options)
+        driver._snap_proc = proc
+        driver.execute_script(
+            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+        )
+        return driver
+
+    # Fallback para Chrome/Chromium instalado via apt o Windows
     options = Options()
     options.add_argument(f"--user-data-dir={CHROME_PROFILE_DIR}")
     options.add_argument("--start-maximized")
@@ -762,13 +811,6 @@ def main():
 
     filas = leer_master()
     print(f"\nFilas en master: {len(filas)}")
-
-    # Filtrar por DISTRIBUCIÓN CARGA VB (solo los folios asignados para carga)
-    if not args.folio:
-        folios_dist = cargar_folios_distribucion()
-        antes = len(filas)
-        filas = [f for f in filas if f["folio"] in folios_dist]
-        print(f"Filtrado por DISTRIBUCIÓN CARGA VB: {len(filas)} folios ({antes - len(filas)} excluidos)")
 
     # Saltar folios ya enviados a revisión
     if args.skip_enviados:

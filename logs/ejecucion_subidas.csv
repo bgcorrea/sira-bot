@@ -3903,3 +3903,545 @@ Stacktrace:
 58944,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/rendiciones_faltantes/58944.pdf,OK,OK,2026-05-21 15:25:10
 58951,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/rendiciones_faltantes/58951.pdf,OK,OK,2026-05-21 15:25:19
 59006,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/rendiciones_faltantes/59006.pdf,OK,OK,2026-05-21 15:25:29
+74926,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74926 - RADIO UNICA LIMITADA/Convenio - 74926.pdf,DRY_RUN,Subiría doc 1,2026-05-29 12:13:44
+74926,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74926 - RADIO UNICA LIMITADA/Resolución - 74926.pdf,DRY_RUN,Subiría doc 2,2026-05-29 12:13:44
+74926,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76440040_2.pdf,DRY_RUN,Subiría doc 1,2026-05-29 12:13:44
+74926,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74926 - RADIO UNICA LIMITADA/Egreso - 74926.pdf,DRY_RUN,Subiría doc 1,2026-05-29 12:13:44
+74926,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74926 - RADIO UNICA LIMITADA/Rendición - 74926.pdf,DRY_RUN,Subiría doc 1,2026-05-29 12:13:44
+74926,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:13:44
+74926,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74926 - RADIO UNICA LIMITADA/Convenio - 74926.pdf,OK,OK,2026-05-29 12:16:35
+74926,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74926 - RADIO UNICA LIMITADA/Resolución - 74926.pdf,OK,OK,2026-05-29 12:16:40
+74926,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76440040_2.pdf,OK,OK,2026-05-29 12:16:46
+74926,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74926 - RADIO UNICA LIMITADA/Egreso - 74926.pdf,OK,OK,2026-05-29 12:16:51
+74926,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74926 - RADIO UNICA LIMITADA/Rendición - 74926.pdf,OK,OK,2026-05-29 12:16:57
+74926,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:16:59
+73542,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73542 - LEONARDO ERWIN PAKARATI QUIROZ/Convenio - 73542.pdf,OK,OK,2026-05-29 12:24:15
+73542,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73542 - LEONARDO ERWIN PAKARATI QUIROZ/Resolución - 73542.pdf,OK,OK,2026-05-29 12:24:20
+73542,Certificado de registro de entidad receptora,-,FALTANTE,Sin archivo asignado en master,2026-05-29 12:24:22
+73542,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73542 - LEONARDO ERWIN PAKARATI QUIROZ/Egreso - 73542.pdf,OK,OK,2026-05-29 12:24:25
+73542,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73542 - LEONARDO ERWIN PAKARATI QUIROZ/Rendición - 73542.pdf,OK,OK,2026-05-29 12:24:31
+73542,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73542 - LEONARDO ERWIN PAKARATI QUIROZ/Garantía - 73542.pdf,OK,OK,2026-05-29 12:24:36
+73944,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73944 - I MUNICIPALIDAD DE ISLA DE PASCUA/Convenio - 73944.pdf,OK,OK,2026-05-29 12:24:49
+73944,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73944 - I MUNICIPALIDAD DE ISLA DE PASCUA/Resolución - 73944.pdf,OK,OK,2026-05-29 12:24:54
+73944,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_69061800_1.pdf,OK,OK,2026-05-29 12:24:59
+73944,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73944 - I MUNICIPALIDAD DE ISLA DE PASCUA/Egreso - 73944.pdf,OK,OK,2026-05-29 12:25:05
+73944,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73944 - I MUNICIPALIDAD DE ISLA DE PASCUA/Rendición - 73944.pdf,OK,OK,2026-05-29 12:25:10
+73944,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:25:12
+71801,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71801 - PARROQUIA NUESTRA SEÑORA DE LA MERCED/Convenio - 71801.pdf,OK,OK,2026-05-29 12:25:23
+71801,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71801 - PARROQUIA NUESTRA SEÑORA DE LA MERCED/Resolución - 71801.pdf,OK,OK,2026-05-29 12:25:29
+71801,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65371690_7.pdf,OK,OK,2026-05-29 12:25:35
+71801,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71801 - PARROQUIA NUESTRA SEÑORA DE LA MERCED/Egreso - 71801.pdf,OK,OK,2026-05-29 12:25:40
+71801,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71801 - PARROQUIA NUESTRA SEÑORA DE LA MERCED/Rendición - 71801.pdf,OK,OK,2026-05-29 12:25:45
+71801,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71801 - PARROQUIA NUESTRA SEÑORA DE LA MERCED/Garantía - 71801.pdf,OK,OK,2026-05-29 12:25:50
+77550,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77550 - AGRUPACIÓN COMUNICACIONAL Y AUDIOVISUAL DE CALLE LARGA/Convenio - 77550.pdf,OK,OK,2026-05-29 12:26:04
+77550,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77550 - AGRUPACIÓN COMUNICACIONAL Y AUDIOVISUAL DE CALLE LARGA/Resolución - 77550.pdf,OK,OK,2026-05-29 12:26:09
+77550,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65042478_6.pdf,OK,OK,2026-05-29 12:26:16
+77550,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77550 - AGRUPACIÓN COMUNICACIONAL Y AUDIOVISUAL DE CALLE LARGA/Egreso - 77550.pdf,OK,OK,2026-05-29 12:26:21
+77550,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77550 - AGRUPACIÓN COMUNICACIONAL Y AUDIOVISUAL DE CALLE LARGA/Rendición - 77550.pdf,OK,OK,2026-05-29 12:26:26
+77550,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77550 - AGRUPACIÓN COMUNICACIONAL Y AUDIOVISUAL DE CALLE LARGA/Garantía - 77550.pdf,OK,OK,2026-05-29 12:26:30
+74649,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74649 - AGRUPACION PENIEL LA LIGUA/Convenio - 74649.pdf,OK,OK,2026-05-29 12:26:47
+74649,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74649 - AGRUPACION PENIEL LA LIGUA/Resolución - 74649.pdf,OK,OK,2026-05-29 12:26:52
+74649,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65135712_8.pdf,OK,OK,2026-05-29 12:27:00
+74649,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74649 - AGRUPACION PENIEL LA LIGUA/Egreso - 74649.pdf,OK,OK,2026-05-29 12:27:04
+74649,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74649 - AGRUPACION PENIEL LA LIGUA/Rendición - 74649.pdf,OK,OK,2026-05-29 12:27:09
+74649,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74649 - AGRUPACION PENIEL LA LIGUA/Garantía - 74649.pdf,OK,OK,2026-05-29 12:27:14
+69805,Convenio + Acto Administrativo,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69805 - AGRUPACION SOCIAL, CULTURAL Y COMUNITARIA/Convenio - 69805.pdf",OK,OK,2026-05-29 12:27:27
+69805,Convenio + Acto Administrativo,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69805 - AGRUPACION SOCIAL, CULTURAL Y COMUNITARIA/Resolución - 69805.pdf",OK,OK,2026-05-29 12:27:32
+69805,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_75196800_0.pdf,OK,OK,2026-05-29 12:27:38
+69805,Transferencias,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69805 - AGRUPACION SOCIAL, CULTURAL Y COMUNITARIA/Egreso - 69805.pdf",OK,OK,2026-05-29 12:27:42
+69805,Respaldo de rendición,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69805 - AGRUPACION SOCIAL, CULTURAL Y COMUNITARIA/Rendición - 69805.pdf",OK,OK,2026-05-29 12:27:48
+69805,Garantías,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69805 - AGRUPACION SOCIAL, CULTURAL Y COMUNITARIA/Garantía - 69805.pdf",OK,OK,2026-05-29 12:27:52
+71876,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71876 - CENTRO JUVENIL SOCIAL CULTURAL Y DE COMUNICACIONES RATEM/Convenio - 71876.pdf,OK,OK,2026-05-29 12:28:03
+71876,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71876 - CENTRO JUVENIL SOCIAL CULTURAL Y DE COMUNICACIONES RATEM/Resolución - 71876.pdf,OK,OK,2026-05-29 12:28:09
+71876,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65079000_6.pdf,OK,OK,2026-05-29 12:28:16
+71876,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71876 - CENTRO JUVENIL SOCIAL CULTURAL Y DE COMUNICACIONES RATEM/Egreso - 71876.pdf,OK,OK,2026-05-29 12:28:20
+71876,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71876 - CENTRO JUVENIL SOCIAL CULTURAL Y DE COMUNICACIONES RATEM/Rendición - 71876.pdf,OK,OK,2026-05-29 12:28:25
+71876,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71876 - CENTRO JUVENIL SOCIAL CULTURAL Y DE COMUNICACIONES RATEM/Garantía - 71876.pdf,OK,OK,2026-05-29 12:28:29
+74253,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74253 - JUNTA DE VECINOS CALETA HIGUERILLA 106-A/Convenio - 74253.pdf,OK,OK,2026-05-29 12:28:42
+74253,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74253 - JUNTA DE VECINOS CALETA HIGUERILLA 106-A/Resolución - 74253.pdf,OK,OK,2026-05-29 12:28:47
+74253,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65191710_7.pdf,OK,OK,2026-05-29 12:28:53
+74253,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74253 - JUNTA DE VECINOS CALETA HIGUERILLA 106-A/Egreso - 74253.pdf,OK,OK,2026-05-29 12:28:57
+74253,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74253 - JUNTA DE VECINOS CALETA HIGUERILLA 106-A/Rendición - 74253.pdf,OK,OK,2026-05-29 12:29:02
+74253,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74253 - JUNTA DE VECINOS CALETA HIGUERILLA 106-A/Garantía - 74253.pdf,OK,OK,2026-05-29 12:29:07
+77798,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77798 - BOX COMUNICACIONES SPA/Convenio - 77798.pdf,OK,OK,2026-05-29 12:29:20
+77798,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77798 - BOX COMUNICACIONES SPA/Resolución - 77798.pdf,OK,OK,2026-05-29 12:29:25
+77798,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_77021049_6.pdf,OK,OK,2026-05-29 12:29:31
+77798,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77798 - BOX COMUNICACIONES SPA/Egreso - 77798.pdf,OK,OK,2026-05-29 12:29:36
+77798,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77798 - BOX COMUNICACIONES SPA/Rendición - 77798.pdf,OK,OK,2026-05-29 12:29:41
+77798,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77798 - BOX COMUNICACIONES SPA/Garantía - 77798.pdf,OK,OK,2026-05-29 12:29:46
+72476,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72476 - COMUNICACIONES CALDERÓN LIMITADA/Convenio - 72476.pdf,OK,OK,2026-05-29 12:30:00
+72476,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72476 - COMUNICACIONES CALDERÓN LIMITADA/Resolución - 72476.pdf,OK,OK,2026-05-29 12:30:05
+72476,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76815383_3.pdf,OK,OK,2026-05-29 12:30:12
+72476,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72476 - COMUNICACIONES CALDERÓN LIMITADA/Egreso - 72476.pdf,OK,OK,2026-05-29 12:30:16
+72476,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72476 - COMUNICACIONES CALDERÓN LIMITADA/Rendición - 72476.pdf,OK,OK,2026-05-29 12:30:21
+72476,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:30:23
+75758,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75758 - COMUNICACIONES CONGRESO SPA/Convenio - 75758.pdf,OK,OK,2026-05-29 12:30:33
+75758,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75758 - COMUNICACIONES CONGRESO SPA/Resolución - 75758.pdf,OK,OK,2026-05-29 12:30:39
+75758,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76008665_7.pdf,OK,OK,2026-05-29 12:30:44
+75758,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75758 - COMUNICACIONES CONGRESO SPA/Egreso - 75758.pdf,OK,OK,2026-05-29 12:30:49
+75758,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75758 - COMUNICACIONES CONGRESO SPA/Rendición - 75758.pdf,OK,OK,2026-05-29 12:30:54
+75758,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75758 - COMUNICACIONES CONGRESO SPA/Garantía - 75758.pdf,OK,OK,2026-05-29 12:30:58
+77380,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77380 - COMUNICACIONES MIGUEL ACUÑA VICENCIO E.I.R.L./Convenio - 77380.pdf,OK,OK,2026-05-29 12:31:10
+77380,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77380 - COMUNICACIONES MIGUEL ACUÑA VICENCIO E.I.R.L./Resolución - 77380.pdf,OK,OK,2026-05-29 12:31:15
+77380,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76158321_2.pdf,OK,OK,2026-05-29 12:31:20
+77380,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77380 - COMUNICACIONES MIGUEL ACUÑA VICENCIO E.I.R.L./Egreso - 77380.pdf,OK,OK,2026-05-29 12:31:25
+77380,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77380 - COMUNICACIONES MIGUEL ACUÑA VICENCIO E.I.R.L./Rendición - 77380.pdf,OK,OK,2026-05-29 12:31:30
+77380,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:31:32
+71206,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71206 - COMUNICACIONES VÍCTOR DELGADO E.I.R.L./Convenio - 71206.pdf,OK,OK,2026-05-29 12:31:41
+71206,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71206 - COMUNICACIONES VÍCTOR DELGADO E.I.R.L./Resolución - 71206.pdf,OK,OK,2026-05-29 12:31:46
+71206,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_77201487_2.pdf,OK,OK,2026-05-29 12:31:52
+71206,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71206 - COMUNICACIONES VÍCTOR DELGADO E.I.R.L./Egreso - 71206.pdf,OK,OK,2026-05-29 12:31:57
+71206,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71206 - COMUNICACIONES VÍCTOR DELGADO E.I.R.L./Rendición - 71206.pdf,OK,OK,2026-05-29 12:32:02
+71206,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71206 - COMUNICACIONES VÍCTOR DELGADO E.I.R.L./Garantía - 71206.pdf,OK,OK,2026-05-29 12:32:07
+76841,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76841 - COMUNICACIONES Y EDICIONES ANGELICA MARIA VERA SILVA E.I.R.L/Convenio - 76841.pdf,OK,OK,2026-05-29 12:32:19
+76841,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76841 - COMUNICACIONES Y EDICIONES ANGELICA MARIA VERA SILVA E.I.R.L/Resolución - 76841.pdf,OK,OK,2026-05-29 12:32:24
+76841,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76620609_3.pdf,OK,OK,2026-05-29 12:32:30
+76841,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76841 - COMUNICACIONES Y EDICIONES ANGELICA MARIA VERA SILVA E.I.R.L/Egreso - 76841.pdf,OK,OK,2026-05-29 12:32:34
+76841,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76841 - COMUNICACIONES Y EDICIONES ANGELICA MARIA VERA SILVA E.I.R.L/Rendición - 76841.pdf,OK,OK,2026-05-29 12:32:40
+76841,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76841 - COMUNICACIONES Y EDICIONES ANGELICA MARIA VERA SILVA E.I.R.L/Garantía - 76841.pdf,OK,OK,2026-05-29 12:32:45
+70905,-,-,ERROR,Estado del folio: TIMEOUT,2026-05-29 12:33:20
+77125,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77125 - LEDEZMA QUEZADA COMUNICACIONES SPA/Convenio - 77125.pdf,OK,OK,2026-05-29 12:33:34
+77125,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77125 - LEDEZMA QUEZADA COMUNICACIONES SPA/Resolución - 77125.pdf,OK,OK,2026-05-29 12:33:39
+77125,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_77097344_9.pdf,OK,OK,2026-05-29 12:33:44
+77125,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77125 - LEDEZMA QUEZADA COMUNICACIONES SPA/Egreso - 77125.pdf,OK,OK,2026-05-29 12:33:49
+77125,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77125 - LEDEZMA QUEZADA COMUNICACIONES SPA/Rendición - 77125.pdf,OK,OK,2026-05-29 12:33:54
+77125,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77125 - LEDEZMA QUEZADA COMUNICACIONES SPA/Garantía - 77125.pdf,OK,OK,2026-05-29 12:33:59
+74148,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74148 - LQE SPA/Convenio - 74148.pdf,OK,OK,2026-05-29 12:34:15
+74148,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74148 - LQE SPA/Resolución - 74148.pdf,OK,OK,2026-05-29 12:34:21
+74148,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76758456_3.pdf,OK,OK,2026-05-29 12:34:26
+74148,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74148 - LQE SPA/Egreso - 74148.pdf,OK,OK,2026-05-29 12:34:31
+74148,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74148 - LQE SPA/Rendición - 74148.pdf,OK,OK,2026-05-29 12:34:36
+74148,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:34:38
+77437,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77437 - OMAR FERNANDO VEAS ROJAS RADIOFISUSION E.I.R.L./Convenio - 77437.pdf,OK,OK,2026-05-29 12:34:49
+77437,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77437 - OMAR FERNANDO VEAS ROJAS RADIOFISUSION E.I.R.L./Resolución - 77437.pdf,OK,OK,2026-05-29 12:34:54
+77437,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76043423_K.pdf,OK,OK,2026-05-29 12:35:00
+77437,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77437 - OMAR FERNANDO VEAS ROJAS RADIOFISUSION E.I.R.L./Egreso - 77437.pdf,OK,OK,2026-05-29 12:35:04
+77437,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77437 - OMAR FERNANDO VEAS ROJAS RADIOFISUSION E.I.R.L./Rendición - 77437.pdf,OK,OK,2026-05-29 12:35:09
+77437,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:35:11
+70245,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70245 - PRELUDIO COMUNICACIONES E.I.R.L./Convenio - 70245.pdf,OK,OK,2026-05-29 12:35:25
+70245,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70245 - PRELUDIO COMUNICACIONES E.I.R.L./Resolución - 70245.pdf,OK,OK,2026-05-29 12:35:31
+70245,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76263482_1.pdf,OK,OK,2026-05-29 12:35:36
+70245,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70245 - PRELUDIO COMUNICACIONES E.I.R.L./Egreso - 70245.pdf,OK,OK,2026-05-29 12:35:41
+70245,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70245 - PRELUDIO COMUNICACIONES E.I.R.L./Rendición - 70245.pdf,OK,OK,2026-05-29 12:35:46
+70245,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:35:48
+72699,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72699 - RADIO DIGITAL VISTAMAR CLAUDIO ESTEBAN ROSAS LEON EIRL/Convenio - 72699.pdf,OK,OK,2026-05-29 12:35:58
+72699,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72699 - RADIO DIGITAL VISTAMAR CLAUDIO ESTEBAN ROSAS LEON EIRL/Resolución - 72699.pdf,OK,OK,2026-05-29 12:36:03
+72699,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_77150754_9.pdf,OK,OK,2026-05-29 12:36:09
+72699,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72699 - RADIO DIGITAL VISTAMAR CLAUDIO ESTEBAN ROSAS LEON EIRL/Egreso - 72699.pdf,OK,OK,2026-05-29 12:36:14
+72699,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72699 - RADIO DIGITAL VISTAMAR CLAUDIO ESTEBAN ROSAS LEON EIRL/Rendición - 72699.pdf,OK,OK,2026-05-29 12:36:20
+72699,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72699 - RADIO DIGITAL VISTAMAR CLAUDIO ESTEBAN ROSAS LEON EIRL/Garantía - 72699.pdf,OK,OK,2026-05-29 12:36:26
+77003,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77003 - RADIO RECREO SPA/Convenio - 77003.pdf,OK,OK,2026-05-29 12:36:38
+77003,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77003 - RADIO RECREO SPA/Resolución - 77003.pdf,OK,OK,2026-05-29 12:36:43
+77003,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76897857_3.pdf,OK,OK,2026-05-29 12:36:48
+77003,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77003 - RADIO RECREO SPA/Egreso - 77003.pdf,OK,OK,2026-05-29 12:36:53
+77003,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77003 - RADIO RECREO SPA/Rendición - 77003.pdf,OK,OK,2026-05-29 12:36:59
+77003,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77003 - RADIO RECREO SPA/Garantía - 77003.pdf,OK,OK,2026-05-29 12:37:04
+74926,-,-,SKIP,Convenio ya enviado,2026-05-29 12:37:12
+77492,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77492 - RADIODIFUSION ADRIAN ESCOBAR ARAVENA EIRL/Convenio - 77492.pdf,OK,OK,2026-05-29 12:37:24
+77492,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77492 - RADIODIFUSION ADRIAN ESCOBAR ARAVENA EIRL/Resolución - 77492.pdf,OK,OK,2026-05-29 12:37:29
+77492,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76040067_K.pdf,OK,OK,2026-05-29 12:37:37
+77492,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77492 - RADIODIFUSION ADRIAN ESCOBAR ARAVENA EIRL/Egreso - 77492.pdf,OK,OK,2026-05-29 12:37:42
+77492,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77492 - RADIODIFUSION ADRIAN ESCOBAR ARAVENA EIRL/Rendición - 77492.pdf,OK,OK,2026-05-29 12:37:47
+77492,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77492 - RADIODIFUSION ADRIAN ESCOBAR ARAVENA EIRL/Garantía - 77492.pdf,OK,OK,2026-05-29 12:37:53
+77821,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77821 - RADIODIFUSION VERONICA DEL CARMEN SOLORZA VICENCIO E.I.R.L/Convenio - 77821.pdf,OK,OK,2026-05-29 12:38:09
+77821,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77821 - RADIODIFUSION VERONICA DEL CARMEN SOLORZA VICENCIO E.I.R.L/Resolución - 77821.pdf,OK,OK,2026-05-29 12:38:14
+77821,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76391622_7.pdf,OK,OK,2026-05-29 12:38:22
+77821,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77821 - RADIODIFUSION VERONICA DEL CARMEN SOLORZA VICENCIO E.I.R.L/Egreso - 77821.pdf,OK,OK,2026-05-29 12:38:27
+77821,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77821 - RADIODIFUSION VERONICA DEL CARMEN SOLORZA VICENCIO E.I.R.L/Rendición - 77821.pdf,OK,OK,2026-05-29 12:38:32
+77821,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77821 - RADIODIFUSION VERONICA DEL CARMEN SOLORZA VICENCIO E.I.R.L/Garantía - 77821.pdf,OK,OK,2026-05-29 12:38:36
+71909,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71909 - RADIODIFUSORA HERNAN OSVALDO PULGAR AGUILERA E.I.R.L/Convenio - 71909.pdf,OK,OK,2026-05-29 12:38:52
+71909,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71909 - RADIODIFUSORA HERNAN OSVALDO PULGAR AGUILERA E.I.R.L/Resolución - 71909.pdf,OK,OK,2026-05-29 12:38:57
+71909,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76793316_9.pdf,OK,OK,2026-05-29 12:39:04
+71909,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71909 - RADIODIFUSORA HERNAN OSVALDO PULGAR AGUILERA E.I.R.L/Egreso - 71909.pdf,OK,OK,2026-05-29 12:39:08
+71909,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71909 - RADIODIFUSORA HERNAN OSVALDO PULGAR AGUILERA E.I.R.L/Rendición - 71909.pdf,OK,OK,2026-05-29 12:39:13
+71909,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/71909 - RADIODIFUSORA HERNAN OSVALDO PULGAR AGUILERA E.I.R.L/Garantía - 71909.pdf,OK,OK,2026-05-29 12:39:19
+72589,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72589 - RODRIGO ALEJANDRO BERNAL CÁCERES E.I.R.L/Convenio - 72589.pdf,OK,OK,2026-05-29 12:39:35
+72589,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72589 - RODRIGO ALEJANDRO BERNAL CÁCERES E.I.R.L/Resolución - 72589.pdf,OK,OK,2026-05-29 12:39:40
+72589,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76401962_8.pdf,OK,OK,2026-05-29 12:39:46
+72589,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72589 - RODRIGO ALEJANDRO BERNAL CÁCERES E.I.R.L/Egreso - 72589.pdf,OK,OK,2026-05-29 12:39:50
+72589,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72589 - RODRIGO ALEJANDRO BERNAL CÁCERES E.I.R.L/Rendición - 72589.pdf,OK,OK,2026-05-29 12:39:56
+72589,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72589 - RODRIGO ALEJANDRO BERNAL CÁCERES E.I.R.L/Garantía - 72589.pdf,OK,OK,2026-05-29 12:40:01
+73226,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73226 - SERVICIOS E INVERSIONES PEDRO HUGO ARELLANO CARVAJAL EIRL/Convenio - 73226.pdf,OK,OK,2026-05-29 12:40:14
+73226,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73226 - SERVICIOS E INVERSIONES PEDRO HUGO ARELLANO CARVAJAL EIRL/Resolución - 73226.pdf,OK,OK,2026-05-29 12:40:19
+73226,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76959234_2.pdf,OK,OK,2026-05-29 12:40:24
+73226,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73226 - SERVICIOS E INVERSIONES PEDRO HUGO ARELLANO CARVAJAL EIRL/Egreso - 73226.pdf,OK,OK,2026-05-29 12:40:29
+73226,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73226 - SERVICIOS E INVERSIONES PEDRO HUGO ARELLANO CARVAJAL EIRL/Rendición - 73226.pdf,OK,OK,2026-05-29 12:40:35
+73226,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:40:37
+77263,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77263 - SOCIEDAD CERRO GRANDE/Convenio - 77263.pdf,OK,OK,2026-05-29 12:40:46
+77263,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77263 - SOCIEDAD CERRO GRANDE/Resolución - 77263.pdf,OK,OK,2026-05-29 12:40:52
+77263,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_78978290_3.pdf,OK,OK,2026-05-29 12:40:57
+77263,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77263 - SOCIEDAD CERRO GRANDE/Egreso - 77263.pdf,OK,OK,2026-05-29 12:41:01
+77263,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77263 - SOCIEDAD CERRO GRANDE/Rendición - 77263.pdf,OK,OK,2026-05-29 12:41:06
+77263,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:41:08
+72170,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72170 - SOCIEDAD COMUNICACIONES RAUDAL LTDA/Convenio - 72170.pdf,OK,OK,2026-05-29 12:41:18
+72170,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72170 - SOCIEDAD COMUNICACIONES RAUDAL LTDA/Resolución - 72170.pdf,OK,OK,2026-05-29 12:41:24
+72170,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_78943800_5.pdf,OK,OK,2026-05-29 12:41:29
+72170,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72170 - SOCIEDAD COMUNICACIONES RAUDAL LTDA/Egreso - 72170.pdf,OK,OK,2026-05-29 12:41:33
+72170,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72170 - SOCIEDAD COMUNICACIONES RAUDAL LTDA/Rendición - 72170.pdf,OK,OK,2026-05-29 12:41:38
+72170,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72170 - SOCIEDAD COMUNICACIONES RAUDAL LTDA/Garantía - 72170.pdf,OK,OK,2026-05-29 12:41:44
+70793,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70793 - SOCIEDAD DE COMUNICACIONES SALTO DEL SOLDADO/Convenio - 70793.pdf,OK,OK,2026-05-29 12:41:57
+70793,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70793 - SOCIEDAD DE COMUNICACIONES SALTO DEL SOLDADO/Resolución - 70793.pdf,OK,OK,2026-05-29 12:42:02
+70793,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_79747540_8.pdf,OK,OK,2026-05-29 12:42:07
+70793,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70793 - SOCIEDAD DE COMUNICACIONES SALTO DEL SOLDADO/Egreso - 70793.pdf,OK,OK,2026-05-29 12:42:12
+70793,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70793 - SOCIEDAD DE COMUNICACIONES SALTO DEL SOLDADO/Rendición - 70793.pdf,OK,OK,2026-05-29 12:42:17
+70793,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70793 - SOCIEDAD DE COMUNICACIONES SALTO DEL SOLDADO/Garantía - 70793.pdf,OK,OK,2026-05-29 12:42:22
+72009,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72009 - SOCIEDAD PUBLIEVENTOS LTDA/Convenio - 72009.pdf,OK,OK,2026-05-29 12:42:32
+72009,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72009 - SOCIEDAD PUBLIEVENTOS LTDA/Resolución - 72009.pdf,OK,OK,2026-05-29 12:42:37
+72009,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_77134420_8.pdf,OK,OK,2026-05-29 12:42:43
+72009,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72009 - SOCIEDAD PUBLIEVENTOS LTDA/Egreso - 72009.pdf,OK,OK,2026-05-29 12:42:47
+72009,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72009 - SOCIEDAD PUBLIEVENTOS LTDA/Rendición - 72009.pdf,OK,OK,2026-05-29 12:42:52
+72009,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72009 - SOCIEDAD PUBLIEVENTOS LTDA/Garantía - 72009.pdf,OK,OK,2026-05-29 12:42:56
+74989,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74989 - SOCIEDAD RADIO ACONCAGUA LIMITADA/Convenio - 74989.pdf,OK,OK,2026-05-29 12:43:10
+74989,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74989 - SOCIEDAD RADIO ACONCAGUA LIMITADA/Resolución - 74989.pdf,OK,OK,2026-05-29 12:43:15
+74989,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76345807_5.pdf,OK,OK,2026-05-29 12:43:21
+74989,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74989 - SOCIEDAD RADIO ACONCAGUA LIMITADA/Egreso - 74989.pdf,OK,OK,2026-05-29 12:43:26
+74989,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74989 - SOCIEDAD RADIO ACONCAGUA LIMITADA/Rendición - 74989.pdf,OK,OK,2026-05-29 12:43:31
+74989,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74989 - SOCIEDAD RADIO ACONCAGUA LIMITADA/Garantía - 74989.pdf,OK,OK,2026-05-29 12:43:35
+73739,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73739 - SOCIEDAD DIFUSORA DE RADIO Y TELEVISIÓN SAN ANTONIO LIMITADA/Convenio - 73739.pdf,OK,OK,2026-05-29 12:43:49
+73739,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73739 - SOCIEDAD DIFUSORA DE RADIO Y TELEVISIÓN SAN ANTONIO LIMITADA/Resolución - 73739.pdf,OK,OK,2026-05-29 12:43:54
+73739,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_77712800_0.pdf,OK,OK,2026-05-29 12:44:00
+73739,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73739 - SOCIEDAD DIFUSORA DE RADIO Y TELEVISIÓN SAN ANTONIO LIMITADA/Egreso - 73739.pdf,OK,OK,2026-05-29 12:44:04
+73739,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73739 - SOCIEDAD DIFUSORA DE RADIO Y TELEVISIÓN SAN ANTONIO LIMITADA/Rendición - 73739.pdf,OK,OK,2026-05-29 12:44:09
+73739,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73739 - SOCIEDAD DIFUSORA DE RADIO Y TELEVISIÓN SAN ANTONIO LIMITADA/Garantía - 73739.pdf,OK,OK,2026-05-29 12:44:13
+77337,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77337 - FABIOLA PAMELA TELLO FIGUEROA/Convenio - 77337.pdf,OK,OK,2026-05-29 12:44:27
+77337,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77337 - FABIOLA PAMELA TELLO FIGUEROA/Resolución - 77337.pdf,OK,OK,2026-05-29 12:44:32
+77337,Certificado de registro de entidad receptora,-,FALTANTE,Sin archivo asignado en master,2026-05-29 12:44:34
+77337,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77337 - FABIOLA PAMELA TELLO FIGUEROA/Egreso - 77337.pdf,OK,OK,2026-05-29 12:44:36
+77337,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77337 - FABIOLA PAMELA TELLO FIGUEROA/Rendición - 77337.pdf,OK,OK,2026-05-29 12:44:42
+77337,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:44:44
+77257,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77257 - COMUNICACIONES PACIFICO SPA/Convenio - 77257.pdf,OK,OK,2026-05-29 12:44:55
+77257,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77257 - COMUNICACIONES PACIFICO SPA/Resolución - 77257.pdf,OK,OK,2026-05-29 12:45:00
+77257,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76670464_6.pdf,OK,OK,2026-05-29 12:45:05
+77257,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77257 - COMUNICACIONES PACIFICO SPA/Egreso - 77257.pdf,OK,OK,2026-05-29 12:45:10
+77257,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77257 - COMUNICACIONES PACIFICO SPA/Rendición - 77257.pdf,OK,OK,2026-05-29 12:45:15
+77257,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77257 - COMUNICACIONES PACIFICO SPA/Garantía - 77257.pdf,OK,OK,2026-05-29 12:45:20
+77181,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77181 - COSTA COMUNICACIONES SPA/Convenio - 77181.pdf,OK,OK,2026-05-29 12:45:32
+77181,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77181 - COSTA COMUNICACIONES SPA/Resolución - 77181.pdf,OK,OK,2026-05-29 12:45:37
+77181,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76550952_1.pdf,OK,OK,2026-05-29 12:45:46
+77181,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77181 - COSTA COMUNICACIONES SPA/Egreso - 77181.pdf,OK,OK,2026-05-29 12:45:51
+77181,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77181 - COSTA COMUNICACIONES SPA/Rendición - 77181.pdf,OK,OK,2026-05-29 12:45:56
+77181,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77181 - COSTA COMUNICACIONES SPA/Garantía - 77181.pdf,OK,OK,2026-05-29 12:46:00
+70236,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70236 - PRELUDIO COMUNICACIONES SPA/Convenio - 70236.pdf,OK,OK,2026-05-29 12:46:11
+70236,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70236 - PRELUDIO COMUNICACIONES SPA/Resolución - 70236.pdf,OK,OK,2026-05-29 12:46:17
+70236,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76809015_7.pdf,OK,OK,2026-05-29 12:46:26
+70236,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70236 - PRELUDIO COMUNICACIONES SPA/Egreso - 70236.pdf,OK,OK,2026-05-29 12:46:32
+70236,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70236 - PRELUDIO COMUNICACIONES SPA/Rendición - 70236.pdf,OK,OK,2026-05-29 12:46:37
+70236,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70236 - PRELUDIO COMUNICACIONES SPA/Garantía - 70236.pdf,OK,OK,2026-05-29 12:46:43
+77562,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77562 - RADIO PORTALES VALPARAISO S.A./Convenio - 77562.pdf,OK,OK,2026-05-29 12:46:59
+77562,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77562 - RADIO PORTALES VALPARAISO S.A./Resolución - 77562.pdf,OK,OK,2026-05-29 12:47:04
+77562,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_91088000_4.pdf,OK,OK,2026-05-29 12:47:10
+77562,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77562 - RADIO PORTALES VALPARAISO S.A./Egreso - 77562.pdf,OK,OK,2026-05-29 12:47:14
+77562,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77562 - RADIO PORTALES VALPARAISO S.A./Rendición - 77562.pdf,OK,OK,2026-05-29 12:47:19
+77562,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77562 - RADIO PORTALES VALPARAISO S.A./Garantía - 77562.pdf,OK,OK,2026-05-29 12:47:23
+74919,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74919 - MANUEL ALFONSO DÍAZ VILLAGRÁN/Convenio - 74919.pdf,OK,OK,2026-05-29 12:47:33
+74919,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74919 - MANUEL ALFONSO DÍAZ VILLAGRÁN/Resolución - 74919.pdf,OK,OK,2026-05-29 12:47:38
+74919,Certificado de registro de entidad receptora,-,FALTANTE,Sin archivo asignado en master,2026-05-29 12:47:40
+74919,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74919 - MANUEL ALFONSO DÍAZ VILLAGRÁN/Egreso - 74919.pdf,OK,OK,2026-05-29 12:47:43
+74919,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74919 - MANUEL ALFONSO DÍAZ VILLAGRÁN/Rendición - 74919.pdf,OK,OK,2026-05-29 12:47:47
+74919,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74919 - MANUEL ALFONSO DÍAZ VILLAGRÁN/Garantía - 74919.pdf,OK,OK,2026-05-29 12:47:52
+77412,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77412 - SOCIEDAD RADIODIFUSORA Y TELEVISION CRYSTAL LIMITADA/Convenio - 77412.pdf,OK,OK,2026-05-29 12:48:06
+77412,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77412 - SOCIEDAD RADIODIFUSORA Y TELEVISION CRYSTAL LIMITADA/Resolución - 77412.pdf,OK,OK,2026-05-29 12:48:11
+77412,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_78474340_3.pdf,OK,OK,2026-05-29 12:48:17
+77412,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77412 - SOCIEDAD RADIODIFUSORA Y TELEVISION CRYSTAL LIMITADA/Egreso - 77412.pdf,OK,OK,2026-05-29 12:48:21
+77412,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77412 - SOCIEDAD RADIODIFUSORA Y TELEVISION CRYSTAL LIMITADA/Rendición - 77412.pdf,OK,OK,2026-05-29 12:48:26
+77412,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:48:28
+77176,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77176 - FELIPE IGNACIO GUERRA ESPINOZA/Convenio - 77176.pdf,OK,OK,2026-05-29 12:48:40
+77176,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77176 - FELIPE IGNACIO GUERRA ESPINOZA/Resolución - 77176.pdf,OK,OK,2026-05-29 12:48:45
+77176,Certificado de registro de entidad receptora,-,FALTANTE,Sin archivo asignado en master,2026-05-29 12:48:47
+77176,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77176 - FELIPE IGNACIO GUERRA ESPINOZA/Egreso - 77176.pdf,OK,OK,2026-05-29 12:48:50
+77176,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77176 - FELIPE IGNACIO GUERRA ESPINOZA/Rendición - 77176.pdf,OK,OK,2026-05-29 12:48:55
+77176,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77176 - FELIPE IGNACIO GUERRA ESPINOZA/Garantía - 77176.pdf,OK,OK,2026-05-29 12:48:59
+77305,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77305 - OSMÁN SANTIAGO BRICHETTO AGUILERA/Convenio - 77305.pdf,OK,OK,2026-05-29 12:49:11
+77305,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77305 - OSMÁN SANTIAGO BRICHETTO AGUILERA/Resolución - 77305.pdf,OK,OK,2026-05-29 12:49:16
+77305,Certificado de registro de entidad receptora,-,FALTANTE,Sin archivo asignado en master,2026-05-29 12:49:18
+77305,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77305 - OSMÁN SANTIAGO BRICHETTO AGUILERA/Egreso - 77305.pdf,OK,OK,2026-05-29 12:49:21
+77305,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77305 - OSMÁN SANTIAGO BRICHETTO AGUILERA/Rendición - 77305.pdf,OK,OK,2026-05-29 12:49:25
+77305,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77305 - OSMÁN SANTIAGO BRICHETTO AGUILERA/Garantía - 77305.pdf,OK,OK,2026-05-29 12:49:30
+70037,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70037 - HUGO ALEXIS MÉNDEZ DÍAZ/Convenio - 70037.pdf,OK,OK,2026-05-29 12:49:42
+70037,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70037 - HUGO ALEXIS MÉNDEZ DÍAZ/Resolución - 70037.pdf,OK,OK,2026-05-29 12:49:47
+70037,Certificado de registro de entidad receptora,-,FALTANTE,Sin archivo asignado en master,2026-05-29 12:49:49
+70037,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70037 - HUGO ALEXIS MÉNDEZ DÍAZ/Egreso - 70037.pdf,OK,OK,2026-05-29 12:49:52
+70037,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70037 - HUGO ALEXIS MÉNDEZ DÍAZ/Rendición - 70037.pdf,OK,OK,2026-05-29 12:49:57
+70037,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70037 - HUGO ALEXIS MÉNDEZ DÍAZ/Garantía - 70037.pdf,OK,OK,2026-05-29 12:50:01
+73951,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73951 - RAQUEL MARGARITA CONCHA PRADO/Convenio - 73951.pdf,OK,OK,2026-05-29 12:50:14
+73951,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73951 - RAQUEL MARGARITA CONCHA PRADO/Resolución - 73951.pdf,OK,OK,2026-05-29 12:50:20
+73951,Certificado de registro de entidad receptora,-,FALTANTE,Sin archivo asignado en master,2026-05-29 12:50:22
+73951,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73951 - RAQUEL MARGARITA CONCHA PRADO/Egreso - 73951.pdf,OK,OK,2026-05-29 12:50:25
+73951,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73951 - RAQUEL MARGARITA CONCHA PRADO/Rendición - 73951.pdf,OK,OK,2026-05-29 12:50:29
+73951,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73951 - RAQUEL MARGARITA CONCHA PRADO/Garantía - 73951.pdf,OK,OK,2026-05-29 12:50:34
+76889,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76889 - SILVIA MIROSLAVA DEL CARMEN GUERRA YERKOVIC/Convenio - 76889.pdf,OK,OK,2026-05-29 12:50:46
+76889,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76889 - SILVIA MIROSLAVA DEL CARMEN GUERRA YERKOVIC/Resolución - 76889.pdf,OK,OK,2026-05-29 12:50:51
+76889,Certificado de registro de entidad receptora,-,FALTANTE,Sin archivo asignado en master,2026-05-29 12:50:53
+76889,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76889 - SILVIA MIROSLAVA DEL CARMEN GUERRA YERKOVIC/Egreso - 76889.pdf,OK,OK,2026-05-29 12:50:56
+76889,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76889 - SILVIA MIROSLAVA DEL CARMEN GUERRA YERKOVIC/Rendición - 76889.pdf,OK,OK,2026-05-29 12:51:01
+76889,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:51:03
+77482,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77482 - COMUNICACIONES ACONCAGUA SPA./Convenio - 77482.pdf,OK,OK,2026-05-29 12:51:20
+77482,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77482 - COMUNICACIONES ACONCAGUA SPA./Resolución - 77482.pdf,OK,OK,2026-05-29 12:51:25
+77482,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76781252_3.pdf,OK,OK,2026-05-29 12:51:31
+77482,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77482 - COMUNICACIONES ACONCAGUA SPA./Egreso - 77482.pdf,OK,OK,2026-05-29 12:51:36
+77482,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77482 - COMUNICACIONES ACONCAGUA SPA./Rendición - 77482.pdf,OK,OK,2026-05-29 12:51:43
+77482,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/77482 - COMUNICACIONES ACONCAGUA SPA./Garantía - 77482.pdf,OK,OK,2026-05-29 12:51:49
+74637,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74637 - RADIO Y TELEVISION DE CASABLANCA SPA/Convenio - 74637.pdf,OK,OK,2026-05-29 12:52:04
+74637,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74637 - RADIO Y TELEVISION DE CASABLANCA SPA/Resolución - 74637.pdf,OK,OK,2026-05-29 12:52:09
+74637,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_77306600_0.pdf,OK,OK,2026-05-29 12:52:14
+74637,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74637 - RADIO Y TELEVISION DE CASABLANCA SPA/Egreso - 74637.pdf,OK,OK,2026-05-29 12:52:19
+74637,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74637 - RADIO Y TELEVISION DE CASABLANCA SPA/Rendición - 74637.pdf,OK,OK,2026-05-29 12:52:24
+74637,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:52:26
+75516,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75516 - COMUNICACIONES HUMBERTO RAFAEL LÓPEZ VERGARA E.I.R.L./Convenio - 75516.pdf,OK,OK,2026-05-29 12:52:39
+75516,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75516 - COMUNICACIONES HUMBERTO RAFAEL LÓPEZ VERGARA E.I.R.L./Resolución - 75516.pdf,OK,OK,2026-05-29 12:52:44
+75516,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76458816_9.pdf,OK,OK,2026-05-29 12:52:49
+75516,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75516 - COMUNICACIONES HUMBERTO RAFAEL LÓPEZ VERGARA E.I.R.L./Egreso - 75516.pdf,OK,OK,2026-05-29 12:52:54
+75516,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75516 - COMUNICACIONES HUMBERTO RAFAEL LÓPEZ VERGARA E.I.R.L./Rendición - 75516.pdf,OK,OK,2026-05-29 12:53:00
+75516,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75516 - COMUNICACIONES HUMBERTO RAFAEL LÓPEZ VERGARA E.I.R.L./Garantía - 75516.pdf,OK,OK,2026-05-29 12:53:04
+73021,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73021 - AGRUPACIÓN COMUNITARIA PURA VIDA MADREBEBÉ/Convenio - 73021.pdf,OK,OK,2026-05-29 12:53:22
+73021,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73021 - AGRUPACIÓN COMUNITARIA PURA VIDA MADREBEBÉ/Resolución - 73021.pdf,OK,OK,2026-05-29 12:53:27
+73021,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65168656_3.pdf,OK,OK,2026-05-29 12:53:34
+73021,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73021 - AGRUPACIÓN COMUNITARIA PURA VIDA MADREBEBÉ/Egreso - 73021.pdf,OK,OK,2026-05-29 12:53:38
+73021,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73021 - AGRUPACIÓN COMUNITARIA PURA VIDA MADREBEBÉ/Rendición - 73021.pdf,OK,OK,2026-05-29 12:53:44
+73021,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73021 - AGRUPACIÓN COMUNITARIA PURA VIDA MADREBEBÉ/Garantía - 73021.pdf,OK,OK,2026-05-29 12:53:49
+72057,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72057 - AGRUPACIÓN DE CLUBES DE ADULTO MAYOR DE PLACILLA/Convenio - 72057.pdf,OK,OK,2026-05-29 12:54:02
+72057,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72057 - AGRUPACIÓN DE CLUBES DE ADULTO MAYOR DE PLACILLA/Resolución - 72057.pdf,OK,OK,2026-05-29 12:54:07
+72057,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65103264_4.pdf,OK,OK,2026-05-29 12:54:13
+72057,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72057 - AGRUPACIÓN DE CLUBES DE ADULTO MAYOR DE PLACILLA/Egreso - 72057.pdf,OK,OK,2026-05-29 12:54:17
+72057,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72057 - AGRUPACIÓN DE CLUBES DE ADULTO MAYOR DE PLACILLA/Rendición - 72057.pdf,OK,OK,2026-05-29 12:54:22
+72057,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72057 - AGRUPACIÓN DE CLUBES DE ADULTO MAYOR DE PLACILLA/Garantía - 72057.pdf,OK,OK,2026-05-29 12:54:27
+75192,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75192 - AGRUPACIÓN TERCERA EDAD Y PACIENTES CRÓNICOS VERDE ESPERANZA/Convenio - 75192.pdf,OK,OK,2026-05-29 12:54:39
+75192,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75192 - AGRUPACIÓN TERCERA EDAD Y PACIENTES CRÓNICOS VERDE ESPERANZA/Resolución - 75192.pdf,OK,OK,2026-05-29 12:54:45
+75192,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65024230_0.pdf,OK,OK,2026-05-29 12:54:50
+75192,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75192 - AGRUPACIÓN TERCERA EDAD Y PACIENTES CRÓNICOS VERDE ESPERANZA/Egreso - 75192.pdf,OK,OK,2026-05-29 12:54:55
+75192,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75192 - AGRUPACIÓN TERCERA EDAD Y PACIENTES CRÓNICOS VERDE ESPERANZA/Rendición - 75192.pdf,OK,OK,2026-05-29 12:54:59
+75192,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75192 - AGRUPACIÓN TERCERA EDAD Y PACIENTES CRÓNICOS VERDE ESPERANZA/Garantía - 75192.pdf,OK,OK,2026-05-29 12:55:05
+76761,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76761 - APODERADOS Y AMIGOS DEL GRUPO SCOUT CAPITAN AQUILES RAMIREZ/Convenio - 76761.pdf,OK,OK,2026-05-29 12:55:18
+76761,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76761 - APODERADOS Y AMIGOS DEL GRUPO SCOUT CAPITAN AQUILES RAMIREZ/Resolución - 76761.pdf,OK,OK,2026-05-29 12:55:23
+76761,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65106589_5.pdf,OK,OK,2026-05-29 12:55:28
+76761,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76761 - APODERADOS Y AMIGOS DEL GRUPO SCOUT CAPITAN AQUILES RAMIREZ/Egreso - 76761.pdf,OK,OK,2026-05-29 12:55:33
+76761,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76761 - APODERADOS Y AMIGOS DEL GRUPO SCOUT CAPITAN AQUILES RAMIREZ/Rendición - 76761.pdf,OK,OK,2026-05-29 12:55:38
+76761,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76761 - APODERADOS Y AMIGOS DEL GRUPO SCOUT CAPITAN AQUILES RAMIREZ/Garantía - 76761.pdf,OK,OK,2026-05-29 12:55:42
+72537,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72537 - ASOCIACIÓN DEPORTIVA PEDRO AGUIRRE CERDA/Convenio - 72537.pdf,OK,OK,2026-05-29 12:55:55
+72537,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72537 - ASOCIACIÓN DEPORTIVA PEDRO AGUIRRE CERDA/Resolución - 72537.pdf,OK,OK,2026-05-29 12:56:00
+72537,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65223780_0.pdf,OK,OK,2026-05-29 12:56:06
+72537,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72537 - ASOCIACIÓN DEPORTIVA PEDRO AGUIRRE CERDA/Egreso - 72537.pdf,OK,OK,2026-05-29 12:56:11
+72537,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72537 - ASOCIACIÓN DEPORTIVA PEDRO AGUIRRE CERDA/Rendición - 72537.pdf,OK,OK,2026-05-29 12:56:16
+72537,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72537 - ASOCIACIÓN DEPORTIVA PEDRO AGUIRRE CERDA/Garantía - 72537.pdf,OK,OK,2026-05-29 12:56:20
+73834,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73834 - CLUB ADULTO MAYOR ACTIVA Y JOVIALES/Convenio - 73834.pdf,OK,OK,2026-05-29 12:56:34
+73834,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73834 - CLUB ADULTO MAYOR ACTIVA Y JOVIALES/Resolución - 73834.pdf,OK,OK,2026-05-29 12:56:39
+73834,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65221329_4.pdf,OK,OK,2026-05-29 12:56:44
+73834,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73834 - CLUB ADULTO MAYOR ACTIVA Y JOVIALES/Egreso - 73834.pdf,OK,OK,2026-05-29 12:56:49
+73834,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73834 - CLUB ADULTO MAYOR ACTIVA Y JOVIALES/Rendición - 73834.pdf,OK,OK,2026-05-29 12:56:54
+73834,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73834 - CLUB ADULTO MAYOR ACTIVA Y JOVIALES/Garantía - 73834.pdf,OK,OK,2026-05-29 12:56:58
+72754,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72754 - CLUB DE ADULTO MAYOR SONRISA Y CORAZONES/Convenio - 72754.pdf,OK,OK,2026-05-29 12:57:11
+72754,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72754 - CLUB DE ADULTO MAYOR SONRISA Y CORAZONES/Resolución - 72754.pdf,OK,OK,2026-05-29 12:57:16
+72754,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65047836_3.pdf,OK,OK,2026-05-29 12:57:22
+72754,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72754 - CLUB DE ADULTO MAYOR SONRISA Y CORAZONES/Egreso - 72754.pdf,OK,OK,2026-05-29 12:57:26
+72754,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72754 - CLUB DE ADULTO MAYOR SONRISA Y CORAZONES/Rendición - 72754.pdf,OK,OK,2026-05-29 12:57:31
+72754,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72754 - CLUB DE ADULTO MAYOR SONRISA Y CORAZONES/Garantía - 72754.pdf,OK,OK,2026-05-29 12:57:36
+76437,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76437 - CLUB DEPORTIVO CHILE WANDERERS/Convenio - 76437.pdf,OK,OK,2026-05-29 12:57:48
+76437,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76437 - CLUB DEPORTIVO CHILE WANDERERS/Resolución - 76437.pdf,OK,OK,2026-05-29 12:57:53
+76437,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65257700_8.pdf,OK,OK,2026-05-29 12:57:59
+76437,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76437 - CLUB DEPORTIVO CHILE WANDERERS/Egreso - 76437.pdf,OK,OK,2026-05-29 12:58:03
+76437,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76437 - CLUB DEPORTIVO CHILE WANDERERS/Rendición - 76437.pdf,OK,OK,2026-05-29 12:58:08
+76437,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76437 - CLUB DEPORTIVO CHILE WANDERERS/Garantía - 76437.pdf,OK,OK,2026-05-29 12:58:12
+75741,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75741 - CLUB DEPORTIVO NEW CRUSADERS/Convenio - 75741.pdf,OK,OK,2026-05-29 12:58:25
+75741,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75741 - CLUB DEPORTIVO NEW CRUSADERS/Resolución - 75741.pdf,OK,OK,2026-05-29 12:58:30
+75741,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65024905_4.pdf,OK,OK,2026-05-29 12:58:35
+75741,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75741 - CLUB DEPORTIVO NEW CRUSADERS/Egreso - 75741.pdf,OK,OK,2026-05-29 12:58:40
+75741,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75741 - CLUB DEPORTIVO NEW CRUSADERS/Rendición - 75741.pdf,OK,OK,2026-05-29 12:58:45
+75741,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75741 - CLUB DEPORTIVO NEW CRUSADERS/Garantía - 75741.pdf,OK,OK,2026-05-29 12:58:49
+70373,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70373 - CLUB DEPORTIVO VILLARRICA/Convenio - 70373.pdf,OK,OK,2026-05-29 12:59:00
+70373,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70373 - CLUB DEPORTIVO VILLARRICA/Resolución - 70373.pdf,OK,OK,2026-05-29 12:59:06
+70373,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_71580200_7.pdf,OK,OK,2026-05-29 12:59:11
+70373,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70373 - CLUB DEPORTIVO VILLARRICA/Egreso - 70373.pdf,OK,OK,2026-05-29 12:59:15
+70373,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70373 - CLUB DEPORTIVO VILLARRICA/Rendición - 70373.pdf,OK,OK,2026-05-29 12:59:21
+70373,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 12:59:23
+73166,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73166 - CLUB SOCIAL Y DEPORTIVO OROMPELLO/Convenio - 73166.pdf,OK,OK,2026-05-29 12:59:33
+73166,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73166 - CLUB SOCIAL Y DEPORTIVO OROMPELLO/Resolución - 73166.pdf,OK,OK,2026-05-29 12:59:38
+73166,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_81826700_2.pdf,OK,OK,2026-05-29 12:59:43
+73166,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73166 - CLUB SOCIAL Y DEPORTIVO OROMPELLO/Egreso - 73166.pdf,OK,OK,2026-05-29 12:59:48
+73166,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73166 - CLUB SOCIAL Y DEPORTIVO OROMPELLO/Rendición - 73166.pdf,OK,OK,2026-05-29 12:59:53
+73166,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73166 - CLUB SOCIAL Y DEPORTIVO OROMPELLO/Garantía - 73166.pdf,OK,OK,2026-05-29 12:59:58
+75606,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75606 - COMITE TIERRAS ROJAS LAGUNA VERDE/Convenio - 75606.pdf,OK,OK,2026-05-29 13:00:09
+75606,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75606 - COMITE TIERRAS ROJAS LAGUNA VERDE/Resolución - 75606.pdf,OK,OK,2026-05-29 13:00:14
+75606,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65204921_4.pdf,OK,OK,2026-05-29 13:00:20
+75606,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75606 - COMITE TIERRAS ROJAS LAGUNA VERDE/Egreso - 75606.pdf,OK,OK,2026-05-29 13:00:24
+75606,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75606 - COMITE TIERRAS ROJAS LAGUNA VERDE/Rendición - 75606.pdf,OK,OK,2026-05-29 13:00:29
+75606,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75606 - COMITE TIERRAS ROJAS LAGUNA VERDE/Garantía - 75606.pdf,OK,OK,2026-05-29 13:00:34
+70311,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70311 - CORPORACIÓN PILARES/Convenio - 70311.pdf,OK,OK,2026-05-29 13:00:46
+70311,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70311 - CORPORACIÓN PILARES/Resolución - 70311.pdf,OK,OK,2026-05-29 13:00:51
+70311,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65086814_5.pdf,OK,OK,2026-05-29 13:00:56
+70311,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70311 - CORPORACIÓN PILARES/Egreso - 70311.pdf,OK,OK,2026-05-29 13:01:01
+70311,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70311 - CORPORACIÓN PILARES/Rendición - 70311.pdf,OK,OK,2026-05-29 13:01:06
+70311,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70311 - CORPORACIÓN PILARES/Garantía - 70311.pdf,OK,OK,2026-05-29 13:01:10
+75822,Convenio + Acto Administrativo,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75822 - FUNDACION CADENA DE FAVORES CHILE, POR LA EQUIDAD SOCIAL/Convenio - 75822.pdf",OK,OK,2026-05-29 13:01:24
+75822,Convenio + Acto Administrativo,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75822 - FUNDACION CADENA DE FAVORES CHILE, POR LA EQUIDAD SOCIAL/Resolución - 75822.pdf",OK,OK,2026-05-29 13:01:29
+75822,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65192718_8.pdf,OK,OK,2026-05-29 13:01:34
+75822,Transferencias,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75822 - FUNDACION CADENA DE FAVORES CHILE, POR LA EQUIDAD SOCIAL/Egreso - 75822.pdf",OK,OK,2026-05-29 13:01:39
+75822,Respaldo de rendición,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75822 - FUNDACION CADENA DE FAVORES CHILE, POR LA EQUIDAD SOCIAL/Rendición - 75822.pdf",OK,OK,2026-05-29 13:01:43
+75822,Garantías,"/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75822 - FUNDACION CADENA DE FAVORES CHILE, POR LA EQUIDAD SOCIAL/Garantía - 75822.pdf",OK,OK,2026-05-29 13:01:48
+69453,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69453 - FUNDACIÓN IMPULSA 21/Convenio - 69453.pdf,OK,OK,2026-05-29 13:01:59
+69453,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69453 - FUNDACIÓN IMPULSA 21/Resolución - 69453.pdf,OK,OK,2026-05-29 13:02:04
+69453,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65198804_7.pdf,OK,OK,2026-05-29 13:02:09
+69453,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69453 - FUNDACIÓN IMPULSA 21/Egreso - 69453.pdf,OK,OK,2026-05-29 13:02:14
+69453,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69453 - FUNDACIÓN IMPULSA 21/Rendición - 69453.pdf,OK,OK,2026-05-29 13:02:18
+69453,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69453 - FUNDACIÓN IMPULSA 21/Garantía - 69453.pdf,OK,OK,2026-05-29 13:02:23
+75082,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75082 - FUNDACIÓN KURMI PARA LA PROMOCIÓN DE CULTURA INCLUSIVA Y UN MEDIO AMBIENTE SUSTENTABLE/Convenio - 75082.pdf,OK,OK,2026-05-29 13:02:34
+75082,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75082 - FUNDACIÓN KURMI PARA LA PROMOCIÓN DE CULTURA INCLUSIVA Y UN MEDIO AMBIENTE SUSTENTABLE/Resolución - 75082.pdf,OK,OK,2026-05-29 13:02:39
+75082,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65216258_4.pdf,OK,OK,2026-05-29 13:02:44
+75082,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75082 - FUNDACIÓN KURMI PARA LA PROMOCIÓN DE CULTURA INCLUSIVA Y UN MEDIO AMBIENTE SUSTENTABLE/Egreso - 75082.pdf,OK,OK,2026-05-29 13:02:49
+75082,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75082 - FUNDACIÓN KURMI PARA LA PROMOCIÓN DE CULTURA INCLUSIVA Y UN MEDIO AMBIENTE SUSTENTABLE/Rendición - 75082.pdf,OK,OK,2026-05-29 13:02:54
+75082,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 13:02:56
+75331,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75331 - FUNDACION TRAMA RURAL/Convenio - 75331.pdf,OK,OK,2026-05-29 13:03:05
+75331,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75331 - FUNDACION TRAMA RURAL/Resolución - 75331.pdf,OK,OK,2026-05-29 13:03:10
+75331,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_53334653_7.pdf,OK,OK,2026-05-29 13:03:16
+75331,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75331 - FUNDACION TRAMA RURAL/Egreso - 75331.pdf,OK,OK,2026-05-29 13:03:20
+75331,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75331 - FUNDACION TRAMA RURAL/Rendición - 75331.pdf,OK,OK,2026-05-29 13:03:25
+75331,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75331 - FUNDACION TRAMA RURAL/Garantía - 75331.pdf,OK,OK,2026-05-29 13:03:29
+75127,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75127 - FUNDACIÓN TRUEKE/Convenio - 75127.pdf,OK,OK,2026-05-29 13:03:40
+75127,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75127 - FUNDACIÓN TRUEKE/Resolución - 75127.pdf,OK,OK,2026-05-29 13:03:46
+75127,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65199484_5.pdf,OK,OK,2026-05-29 13:03:51
+75127,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75127 - FUNDACIÓN TRUEKE/Egreso - 75127.pdf,OK,OK,2026-05-29 13:03:55
+75127,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75127 - FUNDACIÓN TRUEKE/Rendición - 75127.pdf,OK,OK,2026-05-29 13:04:01
+75127,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75127 - FUNDACIÓN TRUEKE/Garantía - 75127.pdf,OK,OK,2026-05-29 13:04:05
+75064,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75064 - GRUPO FOLCLORICO ALMA JOVEN/Convenio - 75064.pdf,OK,OK,2026-05-29 13:04:17
+75064,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75064 - GRUPO FOLCLORICO ALMA JOVEN/Resolución - 75064.pdf,OK,OK,2026-05-29 13:04:22
+75064,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65095022_4.pdf,OK,OK,2026-05-29 13:04:28
+75064,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75064 - GRUPO FOLCLORICO ALMA JOVEN/Egreso - 75064.pdf,OK,OK,2026-05-29 13:04:33
+75064,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75064 - GRUPO FOLCLORICO ALMA JOVEN/Rendición - 75064.pdf,OK,OK,2026-05-29 13:04:37
+75064,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75064 - GRUPO FOLCLORICO ALMA JOVEN/Garantía - 75064.pdf,OK,OK,2026-05-29 13:04:42
+76171,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76171 - JUNTA DE VECINOS JOSÉ MIGUEL CARRERA/Convenio - 76171.pdf,OK,OK,2026-05-29 13:04:53
+76171,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76171 - JUNTA DE VECINOS JOSÉ MIGUEL CARRERA/Resolución - 76171.pdf,OK,OK,2026-05-29 13:04:58
+76171,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65885070_9.pdf,OK,OK,2026-05-29 13:05:03
+76171,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76171 - JUNTA DE VECINOS JOSÉ MIGUEL CARRERA/Egreso - 76171.pdf,OK,OK,2026-05-29 13:05:08
+76171,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76171 - JUNTA DE VECINOS JOSÉ MIGUEL CARRERA/Rendición - 76171.pdf,OK,OK,2026-05-29 13:05:13
+76171,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76171 - JUNTA DE VECINOS JOSÉ MIGUEL CARRERA/Garantía - 76171.pdf,OK,OK,2026-05-29 13:05:17
+74903,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74903 - JUNTA DE VECINOS VILLA EL MIRADOR UVN 11/Convenio - 74903.pdf,OK,OK,2026-05-29 13:05:30
+74903,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74903 - JUNTA DE VECINOS VILLA EL MIRADOR UVN 11/Resolución - 74903.pdf,OK,OK,2026-05-29 13:05:35
+74903,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_75611400_K.pdf,OK,OK,2026-05-29 13:05:41
+74903,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74903 - JUNTA DE VECINOS VILLA EL MIRADOR UVN 11/Egreso - 74903.pdf,OK,OK,2026-05-29 13:05:45
+74903,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74903 - JUNTA DE VECINOS VILLA EL MIRADOR UVN 11/Rendición - 74903.pdf,OK,OK,2026-05-29 13:05:50
+74903,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74903 - JUNTA DE VECINOS VILLA EL MIRADOR UVN 11/Garantía - 74903.pdf,OK,OK,2026-05-29 13:05:55
+74631,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74631 - PROYECTO GIRASOL/Convenio - 74631.pdf,OK,OK,2026-05-29 13:06:06
+74631,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74631 - PROYECTO GIRASOL/Resolución - 74631.pdf,OK,OK,2026-05-29 13:06:11
+74631,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65207819_2.pdf,OK,OK,2026-05-29 13:06:17
+74631,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74631 - PROYECTO GIRASOL/Egreso - 74631.pdf,OK,OK,2026-05-29 13:06:21
+74631,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74631 - PROYECTO GIRASOL/Rendición - 74631.pdf,OK,OK,2026-05-29 13:06:26
+74631,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74631 - PROYECTO GIRASOL/Garantía - 74631.pdf,OK,OK,2026-05-29 13:06:31
+69928,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69928 - CASA CULTURAL EL CHAGUAL/Convenio - 69928.pdf,OK,OK,2026-05-29 13:06:42
+69928,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69928 - CASA CULTURAL EL CHAGUAL/Resolución - 69928.pdf,OK,OK,2026-05-29 13:06:48
+69928,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65189954_0.pdf,OK,OK,2026-05-29 13:06:54
+69928,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69928 - CASA CULTURAL EL CHAGUAL/Egreso - 69928.pdf,OK,OK,2026-05-29 13:06:59
+69928,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69928 - CASA CULTURAL EL CHAGUAL/Rendición - 69928.pdf,OK,OK,2026-05-29 13:07:04
+69928,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/69928 - CASA CULTURAL EL CHAGUAL/Garantía - 69928.pdf,OK,OK,2026-05-29 13:07:09
+76359,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76359 - UNION COMUNAL DE JUNTAS DE VECINOS DE OLMUE/Convenio - 76359.pdf,OK,OK,2026-05-29 13:07:22
+76359,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76359 - UNION COMUNAL DE JUNTAS DE VECINOS DE OLMUE/Resolución - 76359.pdf,OK,OK,2026-05-29 13:07:27
+76359,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_75075100_8.pdf,OK,OK,2026-05-29 13:07:33
+76359,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76359 - UNION COMUNAL DE JUNTAS DE VECINOS DE OLMUE/Egreso - 76359.pdf,OK,OK,2026-05-29 13:07:38
+76359,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76359 - UNION COMUNAL DE JUNTAS DE VECINOS DE OLMUE/Rendición - 76359.pdf,OK,OK,2026-05-29 13:07:43
+76359,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76359 - UNION COMUNAL DE JUNTAS DE VECINOS DE OLMUE/Garantía - 76359.pdf,OK,OK,2026-05-29 13:07:47
+72964,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72964 - ASOCIACION DE PADRES Y AMIGOS DE LOS AUTISTAS ASPAUT V REGION/Convenio - 72964.pdf,OK,OK,2026-05-29 13:08:00
+72964,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72964 - ASOCIACION DE PADRES Y AMIGOS DE LOS AUTISTAS ASPAUT V REGION/Resolución - 72964.pdf,OK,OK,2026-05-29 13:08:05
+72964,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_71578700_8.pdf,OK,OK,2026-05-29 13:08:11
+72964,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72964 - ASOCIACION DE PADRES Y AMIGOS DE LOS AUTISTAS ASPAUT V REGION/Egreso - 72964.pdf,OK,OK,2026-05-29 13:08:15
+72964,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72964 - ASOCIACION DE PADRES Y AMIGOS DE LOS AUTISTAS ASPAUT V REGION/Rendición - 72964.pdf,OK,OK,2026-05-29 13:08:20
+72964,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72964 - ASOCIACION DE PADRES Y AMIGOS DE LOS AUTISTAS ASPAUT V REGION/Garantía - 72964.pdf,OK,OK,2026-05-29 13:08:25
+76284,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76284 - CLUB DE ADULTO MAYOR ARMONIA/Convenio - 76284.pdf,OK,OK,2026-05-29 13:08:37
+76284,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76284 - CLUB DE ADULTO MAYOR ARMONIA/Resolución - 76284.pdf,OK,OK,2026-05-29 13:08:42
+76284,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_53334650_2.pdf,OK,OK,2026-05-29 13:08:48
+76284,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76284 - CLUB DE ADULTO MAYOR ARMONIA/Egreso - 76284.pdf,OK,OK,2026-05-29 13:08:52
+76284,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76284 - CLUB DE ADULTO MAYOR ARMONIA/Rendición - 76284.pdf,OK,OK,2026-05-29 13:08:57
+76284,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/76284 - CLUB DE ADULTO MAYOR ARMONIA/Garantía - 76284.pdf,OK,OK,2026-05-29 13:09:02
+73504,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73504 - CLUB DEPORTIVO CONCON NATIONAL/Convenio - 73504.pdf,OK,OK,2026-05-29 13:09:15
+73504,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73504 - CLUB DEPORTIVO CONCON NATIONAL/Resolución - 73504.pdf,OK,OK,2026-05-29 13:09:20
+73504,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_72052300_0.pdf,OK,OK,2026-05-29 13:09:26
+73504,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73504 - CLUB DEPORTIVO CONCON NATIONAL/Egreso - 73504.pdf,OK,OK,2026-05-29 13:09:31
+73504,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73504 - CLUB DEPORTIVO CONCON NATIONAL/Rendición - 73504.pdf,OK,OK,2026-05-29 13:09:36
+73504,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73504 - CLUB DEPORTIVO CONCON NATIONAL/Garantía - 73504.pdf,OK,OK,2026-05-29 13:09:41
+75164,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75164 - CORPORACIÓN ACCIÓN INTEGRA/Convenio - 75164.pdf,OK,OK,2026-05-29 13:09:53
+75164,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75164 - CORPORACIÓN ACCIÓN INTEGRA/Resolución - 75164.pdf,OK,OK,2026-05-29 13:09:58
+75164,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_53333970_0.pdf,OK,OK,2026-05-29 13:10:03
+75164,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75164 - CORPORACIÓN ACCIÓN INTEGRA/Egreso - 75164.pdf,OK,OK,2026-05-29 13:10:08
+75164,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75164 - CORPORACIÓN ACCIÓN INTEGRA/Rendición - 75164.pdf,OK,OK,2026-05-29 13:10:12
+75164,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 13:10:14
+70703,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70703 - CORPORACIÓN MAYOR VIDA/Convenio - 70703.pdf,OK,OK,2026-05-29 13:10:24
+70703,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70703 - CORPORACIÓN MAYOR VIDA/Resolución - 70703.pdf,OK,OK,2026-05-29 13:10:29
+70703,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65178397_6.pdf,OK,OK,2026-05-29 13:10:35
+70703,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70703 - CORPORACIÓN MAYOR VIDA/Egreso - 70703.pdf,OK,OK,2026-05-29 13:10:39
+70703,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70703 - CORPORACIÓN MAYOR VIDA/Rendición - 70703.pdf,OK,OK,2026-05-29 13:10:45
+70703,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70703 - CORPORACIÓN MAYOR VIDA/Garantía - 70703.pdf,OK,OK,2026-05-29 13:10:50
+72159,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72159 - CORPORACIÓN ONG DE DESARROLLO COMUNIDAD LA ESCUELA IMAGINARIA./Convenio - 72159.pdf,OK,OK,2026-05-29 13:11:13
+72159,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72159 - CORPORACIÓN ONG DE DESARROLLO COMUNIDAD LA ESCUELA IMAGINARIA./Resolución - 72159.pdf,OK,OK,2026-05-29 13:11:18
+72159,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65167392_5.pdf,OK,OK,2026-05-29 13:11:23
+72159,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72159 - CORPORACIÓN ONG DE DESARROLLO COMUNIDAD LA ESCUELA IMAGINARIA./Egreso - 72159.pdf,OK,OK,2026-05-29 13:11:28
+72159,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72159 - CORPORACIÓN ONG DE DESARROLLO COMUNIDAD LA ESCUELA IMAGINARIA./Rendición - 72159.pdf,OK,OK,2026-05-29 13:11:33
+72159,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72159 - CORPORACIÓN ONG DE DESARROLLO COMUNIDAD LA ESCUELA IMAGINARIA./Garantía - 72159.pdf,OK,OK,2026-05-29 13:11:37
+70196,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70196 - FUNDACION PAPUDO/Convenio - 70196.pdf,OK,OK,2026-05-29 13:11:50
+70196,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70196 - FUNDACION PAPUDO/Resolución - 70196.pdf,OK,OK,2026-05-29 13:11:55
+70196,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65195303_0.pdf,OK,OK,2026-05-29 13:12:01
+70196,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70196 - FUNDACION PAPUDO/Egreso - 70196.pdf,OK,OK,2026-05-29 13:12:05
+70196,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70196 - FUNDACION PAPUDO/Rendición - 70196.pdf,OK,OK,2026-05-29 13:12:10
+70196,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70196 - FUNDACION PAPUDO/Garantía - 70196.pdf,OK,OK,2026-05-29 13:12:14
+74567,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74567 - FUNDACIÓN PUNTO ESPORA/Convenio - 74567.pdf,OK,OK,2026-05-29 13:12:26
+74567,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74567 - FUNDACIÓN PUNTO ESPORA/Resolución - 74567.pdf,OK,OK,2026-05-29 13:12:31
+74567,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65202294_4.pdf,OK,OK,2026-05-29 13:12:37
+74567,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74567 - FUNDACIÓN PUNTO ESPORA/Egreso - 74567.pdf,OK,OK,2026-05-29 13:12:41
+74567,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74567 - FUNDACIÓN PUNTO ESPORA/Rendición - 74567.pdf,OK,OK,2026-05-29 13:12:46
+74567,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 13:12:48
+75772,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75772 - JUNTA DE VECINOS N°11 PHILLIPI/Convenio - 75772.pdf,OK,OK,2026-05-29 13:12:57
+75772,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75772 - JUNTA DE VECINOS N°11 PHILLIPI/Resolución - 75772.pdf,OK,OK,2026-05-29 13:13:02
+75772,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65191540_6.pdf,OK,OK,2026-05-29 13:13:08
+75772,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75772 - JUNTA DE VECINOS N°11 PHILLIPI/Egreso - 75772.pdf,OK,OK,2026-05-29 13:13:12
+75772,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75772 - JUNTA DE VECINOS N°11 PHILLIPI/Rendición - 75772.pdf,OK,OK,2026-05-29 13:13:17
+75772,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75772 - JUNTA DE VECINOS N°11 PHILLIPI/Garantía - 75772.pdf,OK,OK,2026-05-29 13:13:22
+75284,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75284 - JUNTA DE VECINOS RECREO Y RODRÍGUEZ/Convenio - 75284.pdf,OK,OK,2026-05-29 13:13:34
+75284,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75284 - JUNTA DE VECINOS RECREO Y RODRÍGUEZ/Resolución - 75284.pdf,OK,OK,2026-05-29 13:13:39
+75284,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_75734200_6.pdf,OK,OK,2026-05-29 13:13:44
+75284,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75284 - JUNTA DE VECINOS RECREO Y RODRÍGUEZ/Egreso - 75284.pdf,OK,OK,2026-05-29 13:13:49
+75284,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75284 - JUNTA DE VECINOS RECREO Y RODRÍGUEZ/Rendición - 75284.pdf,OK,OK,2026-05-29 13:13:53
+75284,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/75284 - JUNTA DE VECINOS RECREO Y RODRÍGUEZ/Garantía - 75284.pdf,OK,OK,2026-05-29 13:13:58
+73472,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73472 - ONG AMUN/Convenio - 73472.pdf,OK,OK,2026-05-29 13:14:09
+73472,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73472 - ONG AMUN/Resolución - 73472.pdf,OK,OK,2026-05-29 13:14:14
+73472,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65171161_4.pdf,OK,OK,2026-05-29 13:14:19
+73472,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73472 - ONG AMUN/Egreso - 73472.pdf,OK,OK,2026-05-29 13:14:24
+73472,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73472 - ONG AMUN/Rendición - 73472.pdf,OK,OK,2026-05-29 13:14:28
+73472,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73472 - ONG AMUN/Garantía - 73472.pdf,OK,OK,2026-05-29 13:14:33
+74874,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74874 - ORGANIZACIÓN NO GUBERNAMENTAL DE DESARROLLO LA MATRIZ/Convenio - 74874.pdf,OK,OK,2026-05-29 13:14:43
+74874,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74874 - ORGANIZACIÓN NO GUBERNAMENTAL DE DESARROLLO LA MATRIZ/Resolución - 74874.pdf,OK,OK,2026-05-29 13:14:48
+74874,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65060696_5.pdf,OK,OK,2026-05-29 13:14:53
+74874,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74874 - ORGANIZACIÓN NO GUBERNAMENTAL DE DESARROLLO LA MATRIZ/Egreso - 74874.pdf,OK,OK,2026-05-29 13:14:58
+74874,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74874 - ORGANIZACIÓN NO GUBERNAMENTAL DE DESARROLLO LA MATRIZ/Rendición - 74874.pdf,OK,OK,2026-05-29 13:15:03
+74874,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/74874 - ORGANIZACIÓN NO GUBERNAMENTAL DE DESARROLLO LA MATRIZ/Garantía - 74874.pdf,OK,OK,2026-05-29 13:15:07
+70641,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70641 - SOMOS HUMEDAL CÓRDOVA/Convenio - 70641.pdf,OK,OK,2026-05-29 13:15:18
+70641,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70641 - SOMOS HUMEDAL CÓRDOVA/Resolución - 70641.pdf,OK,OK,2026-05-29 13:15:23
+70641,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65211552_7.pdf,OK,OK,2026-05-29 13:15:28
+70641,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70641 - SOMOS HUMEDAL CÓRDOVA/Egreso - 70641.pdf,OK,OK,2026-05-29 13:15:33
+70641,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70641 - SOMOS HUMEDAL CÓRDOVA/Rendición - 70641.pdf,OK,OK,2026-05-29 13:15:37
+70641,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 13:15:39
+72936,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72936 - FUNDACIÓN EDUCACIONAL CRUZ DEL SUR DE LAGUNA/Convenio - 72936.pdf,OK,OK,2026-05-29 13:15:48
+72936,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72936 - FUNDACIÓN EDUCACIONAL CRUZ DEL SUR DE LAGUNA/Resolución - 72936.pdf,OK,OK,2026-05-29 13:15:53
+72936,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65119552_7.pdf,OK,OK,2026-05-29 13:15:58
+72936,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72936 - FUNDACIÓN EDUCACIONAL CRUZ DEL SUR DE LAGUNA/Egreso - 72936.pdf,OK,OK,2026-05-29 13:16:03
+72936,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72936 - FUNDACIÓN EDUCACIONAL CRUZ DEL SUR DE LAGUNA/Rendición - 72936.pdf,OK,OK,2026-05-29 13:16:07
+72936,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72936 - FUNDACIÓN EDUCACIONAL CRUZ DEL SUR DE LAGUNA/Garantía - 72936.pdf,OK,OK,2026-05-29 13:16:12
+72112,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72112 - CLUB DEPORTIVO DE BASQUETBOL SENIORS DAMAS MINERVA PARRA/Convenio - 72112.pdf,OK,OK,2026-05-29 13:16:22
+72112,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72112 - CLUB DEPORTIVO DE BASQUETBOL SENIORS DAMAS MINERVA PARRA/Resolución - 72112.pdf,OK,OK,2026-05-29 13:16:27
+72112,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65528380_3.pdf,OK,OK,2026-05-29 13:16:32
+72112,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72112 - CLUB DEPORTIVO DE BASQUETBOL SENIORS DAMAS MINERVA PARRA/Egreso - 72112.pdf,OK,OK,2026-05-29 13:16:37
+72112,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72112 - CLUB DEPORTIVO DE BASQUETBOL SENIORS DAMAS MINERVA PARRA/Rendición - 72112.pdf,OK,OK,2026-05-29 13:16:41
+72112,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/72112 - CLUB DEPORTIVO DE BASQUETBOL SENIORS DAMAS MINERVA PARRA/Garantía - 72112.pdf,OK,OK,2026-05-29 13:16:46
+70863,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70863 - FUNDACION SALUD PARA RAPA NUI/Convenio - 70863.pdf,OK,OK,2026-05-29 13:16:56
+70863,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70863 - FUNDACION SALUD PARA RAPA NUI/Resolución - 70863.pdf,OK,OK,2026-05-29 13:17:01
+70863,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_53333975_1.pdf,OK,OK,2026-05-29 13:17:07
+70863,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70863 - FUNDACION SALUD PARA RAPA NUI/Egreso - 70863.pdf,OK,OK,2026-05-29 13:17:11
+70863,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70863 - FUNDACION SALUD PARA RAPA NUI/Rendición - 70863.pdf,OK,OK,2026-05-29 13:17:16
+70863,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 13:17:18
+73305,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73305 - JUNTA DE VECINOS VILLA SANTO DOMINGO/Convenio - 73305.pdf,OK,OK,2026-05-29 13:17:26
+73305,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73305 - JUNTA DE VECINOS VILLA SANTO DOMINGO/Resolución - 73305.pdf,OK,OK,2026-05-29 13:17:31
+73305,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_65530310_3.pdf,OK,OK,2026-05-29 13:17:37
+73305,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73305 - JUNTA DE VECINOS VILLA SANTO DOMINGO/Egreso - 73305.pdf,OK,OK,2026-05-29 13:17:41
+73305,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/73305 - JUNTA DE VECINOS VILLA SANTO DOMINGO/Rendición - 73305.pdf,OK,OK,2026-05-29 13:17:47
+73305,Garantías,-,SKIP,Sin archivo asignado en master,2026-05-29 13:17:49
+70905,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70905 - COMUNICACIONES Y EVENTOS MARCOS ANTONIO ZAMORA RODRIGUEZ E.I.R.L/Convenio - 70905.pdf,OK,OK,2026-05-29 13:21:32
+70905,Convenio + Acto Administrativo,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70905 - COMUNICACIONES Y EVENTOS MARCOS ANTONIO ZAMORA RODRIGUEZ E.I.R.L/Resolución - 70905.pdf,OK,OK,2026-05-29 13:21:37
+70905,Certificado de registro de entidad receptora,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-SUBIR/Registro de Colaboradores del Estado - Registros 19862/certificado_76508856_9.pdf,OK,OK,2026-05-29 13:21:43
+70905,Transferencias,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70905 - COMUNICACIONES Y EVENTOS MARCOS ANTONIO ZAMORA RODRIGUEZ E.I.R.L/Egreso - 70905.pdf,OK,OK,2026-05-29 13:21:48
+70905,Respaldo de rendición,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70905 - COMUNICACIONES Y EVENTOS MARCOS ANTONIO ZAMORA RODRIGUEZ E.I.R.L/Rendición - 70905.pdf,OK,OK,2026-05-29 13:21:53
+70905,Garantías,/home/bgcorrea/personal/workspace/caigg/sira-bot/ARCHIVOS-NORMALIZADOS/70905 - COMUNICACIONES Y EVENTOS MARCOS ANTONIO ZAMORA RODRIGUEZ E.I.R.L/Garantía - 70905.pdf,OK,OK,2026-05-29 13:21:57

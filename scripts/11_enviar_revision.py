@@ -34,26 +34,61 @@ from selenium.common.exceptions import (
 )
 from webdriver_manager.chrome import ChromeDriverManager
 
-MASTER_XLSX       = "data/master_subida.xlsx"
-DISTRIBUCION_XLSX = "data/DISTRIBUCIÓN CARGA VB.xlsx"
-LOG_CSV           = "logs/envio_revision.csv"
-CHROME_PROFILE    = "/home/bgcorrea/.bot_sira_chrome_profile"
+MASTER_XLSX    = "data/master_subida.xlsx"
+LOG_CSV        = "logs/envio_revision.csv"
+CHROME_PROFILE = "/home/bgcorrea/.bot_sira_chrome_profile"
 
 BASE    = "https://sira.auditoriainternadegobierno.gob.cl"
 SEGEGOB = quote("SECRETARÍA GENERAL DE GOBIERNO")
 SUBSEG  = quote("SUBSECRETARÍA GENERAL DE GOBIERNO")
 URL_2022 = BASE + "/?q={folio}#/convenio/" + SEGEGOB + "/" + SUBSEG + "/" + SUBSEG + "/{folio}"
-
-CAMPOS_REQUERIDOS = ["convenio_pdf", "acto_admin_pdf", "certificado_pdf",
-                     "voucher_pdf", "rendicion_pdf"]
+URL_2024 = BASE + "/?q={folio}#/convenio/" + SEGEGOB + "/" + SUBSEG + "/_/{folio}"
 
 TIMEOUT_PAGINA = 30
 
 
 # ── Driver ────────────────────────────────────────────────────────────────────
 
+SNAP_CHROMIUM = "/snap/bin/chromium"
+SNAP_DRIVER   = "/snap/bin/chromium.chromedriver"
+CDPORT        = 9222
+
+
+def _lanzar_chromium_snap(perfil_dir: str, puerto: int = CDPORT):
+    import subprocess
+    cmd = [SNAP_CHROMIUM, f"--remote-debugging-port={puerto}",
+           f"--user-data-dir={perfil_dir}", "--start-maximized",
+           "--no-sandbox", "--disable-dev-shm-usage", "--disable-gpu",
+           "--no-first-run", "--password-store=basic"]
+    return subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
 def crear_driver() -> webdriver.Chrome:
+    import socket
     Path(CHROME_PROFILE).mkdir(parents=True, exist_ok=True)
+
+    if Path(SNAP_CHROMIUM).exists() and Path(SNAP_DRIVER).exists():
+        proc = _lanzar_chromium_snap(CHROME_PROFILE)
+        for _ in range(20):
+            time.sleep(0.5)
+            try:
+                with socket.create_connection(("127.0.0.1", CDPORT), timeout=1):
+                    break
+            except OSError:
+                pass
+        else:
+            proc.terminate()
+            raise RuntimeError("Chromium no abrió el puerto de depuración a tiempo.")
+        options = Options()
+        options.add_experimental_option("debuggerAddress", f"127.0.0.1:{CDPORT}")
+        service = Service(SNAP_DRIVER)
+        driver = webdriver.Chrome(service=service, options=options)
+        driver._snap_proc = proc
+        driver.execute_script(
+            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+        )
+        return driver
+
     options = Options()
     options.add_argument(f"--user-data-dir={CHROME_PROFILE}")
     options.add_argument("--start-maximized")
@@ -83,9 +118,13 @@ def esperar_login(driver):
 
 # ── Navegación y estado ───────────────────────────────────────────────────────
 
-def cargar_folio(driver, folio: str) -> str:
+def url_para_folio(folio: str, ano: int) -> str:
+    return URL_2022.format(folio=folio) if ano <= 2022 else URL_2024.format(folio=folio)
+
+
+def cargar_folio(driver, folio: str, ano: int = 2023) -> str:
     """Devuelve: Borrador / Enviado / Cerrado / NO_EXISTE / TIMEOUT / DESCONOCIDO"""
-    url = URL_2022.format(folio=folio)
+    url = url_para_folio(folio, ano)
     driver.get(url)
     try:
         WebDriverWait(driver, TIMEOUT_PAGINA).until(
@@ -199,12 +238,11 @@ def enviar_a_revision(driver, folio: str, dry_run: bool) -> tuple[bool, str]:
 
 LOG_SUBIDA_CSV = "logs/ejecucion_subidas.csv"
 
-# Sección DOM → campos master
+# Secciones obligatorias para enviar (certificado es opcional para personas naturales)
 _SEC_CAMPOS = {
-    "Convenio + Acto Administrativo":              ["convenio_pdf", "acto_admin_pdf"],
-    "Certificado de registro de entidad receptora": ["certificado_pdf"],
-    "Transferencias":                               ["voucher_pdf"],
-    "Respaldo de rendición":                        ["rendicion_pdf"],
+    "Convenio + Acto Administrativo": ["convenio_pdf", "acto_admin_pdf"],
+    "Transferencias":                  ["voucher_pdf"],
+    "Respaldo de rendición":           ["rendicion_pdf"],
 }
 
 def _sira_ok_por_folio() -> dict:
@@ -221,21 +259,15 @@ def _sira_ok_por_folio() -> dict:
 
 
 def folios_listos() -> list[dict]:
-    """Devuelve filas cuyas secciones obligatorias están cubiertas:
-    sea por archivo en disco O por subida OK registrada en el log."""
+    """Devuelve todos los folios del master que tienen las secciones mínimas cubiertas."""
     master = pd.read_excel(MASTER_XLSX)
-    dist   = pd.read_excel(DISTRIBUCION_XLSX)
-    folios_dist = set(dist["ID Convenio"].astype(str).str.strip())
     sira_ok = _sira_ok_por_folio()
 
     listos = []
     for _, row in master.iterrows():
         folio = str(row["folio"])
-        if folio not in folios_dist:
-            continue
         faltantes = []
         for sec, campos in _SEC_CAMPOS.items():
-            # Cubierta si está en el log de SIRA o si el archivo existe en disco
             en_sira = sec in sira_ok.get(folio, set())
             en_disco = any(
                 (v := str(row.get(c, "")).strip()) and v != "nan" and Path(v).exists()
@@ -246,7 +278,7 @@ def folios_listos() -> list[dict]:
         if not faltantes:
             listos.append({
                 "folio":        folio,
-                "ano":          int(row.get("ano", 2022)),
+                "ano":          int(row.get("ano", 2023)),
                 "region":       str(row.get("region", "")),
                 "razon_social": str(row.get("razon_social", "")),
             })
@@ -298,7 +330,7 @@ def main() -> None:
             razon  = fila["razon_social"]
             print(f"[{i}/{len(filas)}] Folio {folio} ({razon[:45]})")
 
-            estado = cargar_folio(driver, folio)
+            estado = cargar_folio(driver, folio, fila.get("ano", 2023))
 
             if estado in ("Enviado", "Cerrado"):
                 print(f"  → Ya {estado.lower()} — omitido")
